@@ -1,5 +1,5 @@
-HOME=/home/gustaf
-BIN=$(HOME)/gemini
+HOME=/home/gustaf/gemini
+BIN=$(HOME)/gemini-main
 GEM=/home/gemini/gemini
 
 .PHONY: publish
