@@ -1,0 +1,37 @@
+``` gerikson.com logo
+░█▀▀░█▀▀░█▀▄░▀█▀░█░█░█▀▀░█▀█░█▀█░░░░█▀▀░█▀█░█▄█
+░█░█░█▀▀░█▀▄░░█░░█▀▄░▀▀█░█░█░█░█░░░░█░░░█░█░█░█
+░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀░░▀▀▀░▀▀▀░▀░▀
+```
+
+# Welcome to gerikson.com on Gemini
+
+Only some stuff from my [main web presence] and [blog] is reproduced here, in degraded form because [gemtext sucks]
+=> https://gerikson.com/ main web presence
+=> https://gerikson.com/blog blog
+
+## my newish Gemlog
+=> gemini://gerikson.com/gemlog/
+
+## My thoughts on Gemini (trigger warning: I am not a fan)
+=> gemini://gerikson.com/gemlog/gemini-sux/Gemini-misaligned-incentives.gmi Gemini: the misaligned incentives, or: gemtext sucks (2021-09-28)
+=> gemini://gerikson.com/gemlog/gemini-sux/Why-u-no-gemini.gmi Why Gemini is not my favorite internet protocol (2021-06-11)
+
+## The Freenode Files
+=> gemini://gerikson.com/gemlog/freenode-fuckery/Farrago-of-Freenode-fuckery.gmi A Farrago of Freenode Fuckery (2021-06-15)
+=> gemini://gerikson.com/gemlog/freenode-fuckery/Death-of-a-channel.gmi Death of a channel (2021-06-05)
+
+## Other stuff
+
+### Lobste.rs drafts
+
+This is a collection of drafts I've written through the years that might or might not have been posted to lobste.rs.
+=> gemini://gerikson.com/gemlog/lobsters-drafts/
+
+### Misc
+
+Other stuff
+=> gemini://gerikson.com/gemlog/misc/
+
+---
+Copyright © 2021 Gustaf Erikson
