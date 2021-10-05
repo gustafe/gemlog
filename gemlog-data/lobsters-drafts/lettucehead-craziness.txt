@@ -1,0 +1,70 @@
+lettucehead craziness 
+meta-creation_date: 2020-03-01 09:49:55
+
+### Freeman Dyson
+```
+submission 82z8oc, 
+removed 2020-02-28 18:31 -0600, 
+link: https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society
+```
+
+
+### lettucehead 
+
+I would like to discuss this discussion:
+=> https://news.ycombinator.com/item?id=5489962
+
+However, my understanding is that 2nd-order conversations are generally frowned upon.
+
+I haven’t been able to find solid documentation surrounding this exciting topic.
+
+### gerikson
+
+Rather than linking to 7 year-old HN threads, why not write up a summary with links, and submit that?
+
+### lettucehead
+
+=> https://lobste.rs/s/1huwhw/testing_gerikson_s_idea
+
+### lettucehead 
+
+… Because that would destroy the non-coincidental arrangement of alphabet letters being used by what i presume are the highly evolved and highly trained primates on the (metaphorical:) other side of the monitor? And ive actually got the ability to read…?
+
+Furthermore, said summary would involve my own interpretation of whatever was said. Why not convert XML (or whatever is normally used… I dont actually know!!) to JSON for I2C communication? Just because you CAN doesnt mean you should.
+
+Perhaps you would like me to write up a summary, with links, of your comment here, so that i can submit that?
+
+### gerikson 
+
+There’s no need to be weirdly hostile, I was trying to be helpful.
+
+Presumably you have a thesis (perhaps - “open source leads to genocide”? I don’t know, it’s not clear from the linked comment). Presenting that thesis, together with [links] to the comment on HN by ‘danso, and also the specific comment on io9, along with why you think the thesis is supported, would lead more to a discussion than the current situation, where people won’t have a clue what’s going on.
+
+This applies, mutatis mutandis, to other topics raised by comments here, on HN, and elsewhere.
+
+In summary and conclusion, I personally do not think deeplinking into comment threads is a good idea for this site.
+
+### lettucehead
+
+No, i have no hostility towards you!! Where did you get that idea
+
+I find your proposed thesis… Completely counterfactual. Utterly.
+
+Honestly, i am asking a question out of total sincerity.
+
+I am not sure i can get behind the idea that “people wont have a clue whats going on.” Why do you think they are unable to read comments on a forum? Perhaps i actually value their opinions! In fact, i value yours!
+
+Yet how could they post on this very forum unless they already possess, ipso facto (“whilst” we deploy antiquated modalities of expression), the selfsame ability to use a forum to communicate?
+
+Or, perhaps you think that reading a story within a story requires the ability to read while you read?
+
+On the contrary, over and against your own summary conclusion, which i personally find inconclusive, you personally suggested the opposite two comments ago, here:
+
+=> https://lobste.rs/s/1huwhw/testing_gerikson_s_idea
+
+
+### gerikson 
+
+> Perhaps you would like me to write up a summary, with links, of your comment here, so that i can submit that?
+
+I read this as sarcastic.

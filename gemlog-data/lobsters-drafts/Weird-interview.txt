@@ -1,0 +1,24 @@
+Weird interview story
+meta-creation_date: 2020-09-11 06:29:08
+
+I didn't catch this before it was removed, but I found it via other channels (for those interested, the post can be found on the site [here]). I can say that I agree wholeheartedly with @pushcx's decision to remove this as off-topic.
+
+=> https://confidentialinterval.com/posts/in-fact-dan-asked-me-three/ here
+
+First, the format is *in media res* to an absurd degree, literally riffing off a comment thread on Hacker News about a startup I've never heard of being acquired by another company I've never heard of[1]. This gives the impression that it's tied to a specific milieu and time (late 20-teens Silicon Valley startup culture).
+
+Then there's the *very* personal details about your move, your cats, the interviewer's first names and choice of footwear. Is the reader somehow supposed to know who "Dan" is, and why his choice of sneaker color is relevant to the content? 
+
+Finally we get to the musings about work-life balance. They're ... kinda interesting? If a little off-putting and intense? But also tied to a specific time and place (and person, man, this Dan seems *weird*).
+
+A format that might have been more acceptable here would be of the form: 
+
+>Here's an anecdote about some interview questions I got when applying for a job at a startup. 
+
+> <questions and answers>
+
+> Here's what they made me think about life, jobs, and they way they interact
+
+It would have been borderline off-topic, but presumably tickled enough interest to generate the kind of comments that would prevent a removal. 
+
+[1] context, I'm a middle-aged engineer who has been working in the IT space in Sweden since the late 90s. 

@@ -1,0 +1,18 @@
+Perl's noisy horsemen
+meta-creation_date: 2021-07-21 08:49:06
+
+=> https://lobste.rs/s/oa8sgi/four_noisy_horsemen_perl_hate
+
+Perl's original sin is There's More Than One Way To Do It.
+
+Perl hackers revel in it.
+
+Python coders fret about whether something is "idiomatic".
+
+---
+
+"There's more than one way to do it" is Perl's blessing, and its curse. 
+
+Sure, one can write readable and maintainable Perl, but one developer's notions of readability and maintainability probably differs from everyone else's.
+
+Bondage-and-discipline languages like Python or Go are much more effective at enforcing standards at a language level. While TMTOWTDI is the rallying cry of Perl aficionados, "is this idiomatic" is the fretting of the Python purist.

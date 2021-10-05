@@ -1,0 +1,14 @@
+Reply to friendlysock re: Linus "ousting"
+meta-creation_date: 2021-06-22 07:09:44
+
+=> https://lobste.rs/s/vqmn0u/linux_sucks_2021_end_linux_is_nigh#c_ujfhzj
+
+Absent any clear evidence to the contrary, urging Linus to change his behavior could either be expressions of hope that he *would* change, thereby improving relationships among the kernel development team, helping Linus become a better adjusted person and rescuing his legacy from mean-spirited cherry-picking attacks on his character.
+
+Or it could be seen as a shadowy conspiracy hell-bent on destroying the career of any prominent person (well, *man*) within the open source movement.
+
+The former presents a hopeful view of human nature, where dialog and reason leads to a result that is beneficial to all. 
+
+The latter presents a worldview of constant threat where the few beacons of light are actively assailed by the forces of darkness, and desperate measures must be taken to prevent them from being snuffed out. 
+
+I know which worldview I subscribe to. 

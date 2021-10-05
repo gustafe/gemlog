@@ -1,0 +1,18 @@
+On Empathy Online
+meta-creation_date: 2020-06-20 06:33:39
+
+=> https://lobste.rs/s/zcncvc/empathy_online
+
+Many of the commenters here seem to assume the expression of politeness of empathy with the actual emotion. Anyone who has interacted professionally with citizens of the UK will know that these are in fact often quite separate.
+
+In any form of formal communication (as in, "I have problem, can you help me fix it") politeness goes a long way. If you're answering the same sort of question all day long, you may very well automate the answer, and if you do, it costs very little to craft the automated answer in a polite way. 
+
+////
+
+I don't find the example very enlightening. It's unclear whether the two people are close coworkers, working in different teams, or in a more formal "client" relationship (open source issue , paid product support inquiry). 
+
+Like language in general, these kinds of things are highly context-dependent. 
+
+Many of the commenters here seem to assume the expression of politeness of empathy with the actual emotion. Anyone who has interacted professionally with citizens of the UK will know that these are in fact often quite separate.
+
+The phrase "I'm sorry to hear you have a problem, I will try to fix it as fast as possible" is not a genuine expression of regret, it's a semantic equivalent of an "Acknowledged your communication, the next communication will be from me".  

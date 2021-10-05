@@ -1,0 +1,26 @@
+Styling webpages
+meta-creation_date: 2020-11-25 07:45:57
+
+=> https://lobste.rs/s/akcw1m/opinionated_list_best_practices_for#c_xkhd6g
+
+> Textual websites don’t need fancy styles because styles aren’t a significant part of their content.
+
+Where is the line drawn, however?
+
+Here's two screenshots from my blog, with styling (amended yesterday after some tinkering based on discussion here) and without:
+
+=> https://imgur.com/gallery/LPMYrX7
+
+(I've also added the page as rendered via `w3m`)
+
+Note that I have semantic markup: 
+
+```
+    .h1 Blog title
+        .h2 Date
+            .h3 Post title
+```
+
+but I visually de-emphasize the date using CSS. I also remove link styling from the titles, because there's a convention that titles are links to their respective levels. 
+
+Styling also adds nice margins, etc. 

@@ -1,0 +1,25 @@
+Work is work
+meta-creation_date: 2020-01-15 08:03:54
+
+reply to
+=> https://lobste.rs/s/9g4cbx/work_is_work#c_sckwaf
+
+@codahale wrote
+
+> The last is definitely a managerial term of art, but the rest are from military science, mathematics, and Ancient Greek. I’d suggest not abandoning words just because a group of people you don’t like use them or limiting yourself to only those words programmers use. It’s a big world out there.
+
+### My response
+
+>  military science
+
+Definitely applicable to this site, where so many people are engaged with Free/Open Source software. I mean, a "force multiplier" would be to aggressively use FLOSS software, but not "waste" any resources contributing back. Life and business is an unending struggle and the only way to win is to kill your enemies, sack their cities, and drive their women wailing before you.
+
+> mathematics
+
+"Superlinear" means "more than linear". Producing slightly more output than input (i.e "making a profit") is basically what running a company is, so this is a tautology.
+
+> Ancient Greek
+
+> Synergy is the creation of a whole that is greater than the simple sum of its parts. 
+
+Again, basically "making a profit", and thus tautological.

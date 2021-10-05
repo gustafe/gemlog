@@ -1,0 +1,10 @@
+Free software
+meta-creation_date: 2021-03-29 06:57:02
+
+=> https://lobste.rs/s/by1tq9/free_software_idea_whose_time_has_passed
+
+I don't agree with most of the points of this article, but what I do find refreshing is the questioning of the ossified foundations of FLOSS licensing.
+
+Another view is here (via HN):
+
+=> gemini://rosenzweig.io/gemlog/2021-03-28-software-freedom-isnt-about-licenses-its-about-power.gmi

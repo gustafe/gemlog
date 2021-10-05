@@ -1,0 +1,16 @@
+Cashiers
+meta-creation_date: 2021-05-16 11:59:02
+
+=> https://lobste.rs/s/bmweso/ai_mid_2021_self_driving_car_meets_reality#c_nr8sfo  context 
+
+I can see the transition occurring here in Sweden. Here, retail jobs are generally unionized (or rather, union's collective bargaining set wages and working conditions), so the cost per hour of an employee is generally higher than in the US. The local supermarket has implemented self-checkout and self-price scanning, but there's still many employees working as stockers, helping those that don't want to self-scan, working in the deli counter, receiving goods etc etc.
+
+---
+
+That's a function of politics/laws, not economics.
+
+In the small town where we have a vacation home, there's a large supermarket. It's open 7-22, 7 days a week. The employees enjoy the wages and working conditions set by the union's collective bargaining.[1] It has self-service in the form or self-checkout and self-scanning, but also 3 manual cashier lines (down from 6 before an upgrade/rebuild). Most employees are working in the deli, the attached cafe, re-stocking, receiving goods, and helping customers find products. 
+
+Sweden's move away from cash was driven in part by a spate of robberies against supermarkets. Most big stores have automated safes that can't be opened by the cashier. But cash is rare nowadays, most people pay by card or phone. 
+
+[1] The median wage in this sector is 28k SEK/mo, but for the employer, that does not include the mandatory payments for health insurance and pensions ("arbetsgivaravgift") 

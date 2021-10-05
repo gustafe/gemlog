@@ -1,0 +1,60 @@
+Urbit and Project Cybersyn
+meta-creation_date: 2021-05-25 19:26:55
+
+``` sql query
+select '* '|| strftime('%Y-%m-%d',created_time)||' ['|| title|| '](https://lobste.rs/s/'||id||')  Score: '|| score || ', comments: '||comments  from lobsters where title like '%urbit%' and created_time <='2016-01-01' order by created_time;
+```
+
+When Project Cybersyn was discussed, it got 6 upvotes and 1 comment:
+
+=> https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/
+
+Here's a bunch of submissions with 'urbit' in the title. I conventionally consider a submission with a comment over score ratio of > 1.25 to be "controversial". 
+
+* 2014-07-12 [Nock, Hoon, etc. for Non-Vulcans (Why Urbit Matters)] Score: 5, comments: 0
+* 2014-11-08 [Urbit: a personal cloud computer]  Score: 13, comments: 24
+* 2015-09-26 [Urbit whitepaper]  Score: 19, comments: 23
+* 2016-06-01 [Urbit - A personal server] Score: 7, comments: 0
+* 2016-06-01 [Urbit at LambdaConf 2016 (bootleg)] Score: 27, comments: 16
+* 2016-06-07 [Urbit: A Solid-State Interpreter] Score: 5, comments: 0
+* 2016-06-17 [Urbit ama on /r/urbit] Score: 8, comments: 0
+* 2016-06-28 [The Urbit crowdsale is now live] Score: 10, comments: 54
+* 2017-02-09 [Urbit in 2017]  Score: 19, comments: 77
+* 2017-09-21 [Bootstrapping Urbit from Ethereum] Score: 7, comments: 13
+* 2017-09-22 [Forking Urbit: Galaxy, Star and Planet Giveaway] Score: 13, comments: 5
+* 2017-09-27 [How to Create Your Own Urbit Fork] Score: 3, comments: 0
+* 2018-11-25 [On Urbit and Exit (featuring Urbit Engineer Ted Blackman)] Score: 4, comments: 12
+* 2019-01-15 [The Urbit address space is now live on the Ethereum blockchain. We’re calling it ‘Azimuth’] Score: 2, comments: 9
+* 2019-03-09 [Primer to Urbit: A Personal Server built from Scratch] Score: 2, comments: 7
+* 2019-05-21 [Urbit 2019-5 Roadmap] Score: 4, comments: 0
+* 2019-10-18 [Understanding Urbit] Score: 11, comments: 53
+* 2020-04-19 [The value of Urbit address space (1 of 3) - Urbit]  Score: -5, comments: 1
+* 2020-05-19 [yosoyubik/canvas - Canvas on Urbit] Score: 0, comments: 0
+* 2020-06-13 [Urbit In The Cloud] Score: 7, comments: 0
+* 2020-09-29 [What Urbit Is]  Score: 0, comments: 12
+* 2020-10-09 [tibru/tibru - an alternative to the nonsense that is the Urbit project] Score: 25, comments: 17
+* 2021-05-24 [Urbit :: the good, the bad, and the insane](https://lobste.rs/s/prlffn)  Score: 66, comments: 66
+
+=> https://lobste.rs/s/b3rlcj [Nock, Hoon, etc. for Non-Vulcans (Why Urbit Matters)]
+=> https://lobste.rs/s/ktczrr [Urbit: a personal cloud computer]
+=> https://lobste.rs/s/g8l2xs [Urbit whitepaper]
+=> https://lobste.rs/s/hbkgut [Urbit - A personal server]
+=> https://lobste.rs/s/gmoyhk [Urbit at LambdaConf 2016 (bootleg)]
+=> https://lobste.rs/s/orjy8f [Urbit: A Solid-State Interpreter]
+=> https://lobste.rs/s/0i4mkp [Urbit ama on /r/urbit]
+=> https://lobste.rs/s/mlwhlc [The Urbit crowdsale is now live]
+=> https://lobste.rs/s/z5j1hq [Urbit in 2017]
+=> https://lobste.rs/s/dpvymd [Bootstrapping Urbit from Ethereum]
+=> https://lobste.rs/s/rvszyd [Forking Urbit: Galaxy, Star and Planet Giveaway]
+=> https://lobste.rs/s/rq0el9 [How to Create Your Own Urbit Fork]
+=> https://lobste.rs/s/dtmdyg [On Urbit and Exit (featuring Urbit Engineer Ted Blackman)]
+=> https://lobste.rs/s/tymynz [The Urbit address space is now live on the Ethereum blockchain. We’re calling it ‘Azimuth’]
+=> https://lobste.rs/s/rv3obr [Primer to Urbit: A Personal Server built from Scratch]
+=> https://lobste.rs/s/mle9k8 [Urbit 2019-5 Roadmap]
+=> https://lobste.rs/s/c5gp8j [Understanding Urbit]
+=> https://lobste.rs/s/dgp6kj [The value of Urbit address space (1 of 3) - Urbit]
+=> https://lobste.rs/s/17fdae [yosoyubik/canvas - Canvas on Urbit]
+=> https://lobste.rs/s/orbpg5 [Urbit In The Cloud]
+=> https://lobste.rs/s/9xe8zp [What Urbit Is]
+=> https://lobste.rs/s/klltdm [tibru/tibru - an alternative to the nonsense that is the Urbit project]
+=> https://lobste.rs/s/prlffn [Urbit :: the good, the bad, and the insane]

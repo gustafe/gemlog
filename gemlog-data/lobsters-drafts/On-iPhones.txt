@@ -1,0 +1,12 @@
+iPhone comment
+meta-creation_date: 2020-05-25 18:31:03
+
+https://lobste.rs/s/oyxpva/i_had_jailbreak_my_iphone_change_default#c_hoke6x
+
+I can resell my iPhone privately and keep the proceeds. Apple provides detailed explanations on how to prepare the device for resale so that no private information is leaked. 
+
+I'm sorry, I don't see the problem you're seeing. I get a reliable device with a great app ecosystem, years of official software support, best in class security (from a company that doesn't rely on user tracking or ads to make money) and that has great resale value. 
+
+So what if I can't install literally whatever I want? That part of my life is over. I want reliability and stability and security. My device acts as a trusted token for almost everything, from accessing my bank to letting the school know my kid is sick. Why should I risk that for something that can subvert my root access? 
+
+For root, I have my Raspberry Pi. 

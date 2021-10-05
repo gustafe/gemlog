@@ -1,0 +1,8 @@
+# The occasional geminer
+
+Offcuts and rejects from
+
+=> https://gerikson.com/blog/ my blog
+=> gemini://gerikson.com/gemlog/ latest entries
+
+

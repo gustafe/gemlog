@@ -1,0 +1,1 @@
+=> $url$path/$fn.gmi $title ($yr-$mo_num-$da)

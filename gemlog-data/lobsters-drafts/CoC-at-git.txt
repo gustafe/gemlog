@@ -1,0 +1,10 @@
+CoC at Git
+meta-creation_date: 2019-11-05 09:04:11
+
+=> https://lobste.rs/s/cigaon/highlights_from_git_2_24#c_p0xb8h
+
+Thanks for the link regarding the use of the word "professionalism". I'd like to note that the term is last in a list of stuff that's example of what not to do, so it's not front and foremost in the main text.
+
+I do agree that the CC is maybe a bit *too* brief, and not enough to prevent acrimonious rules-lawyering. 
+
+I'd also like to note that the term "hacker ethos" is similarly coded, as "hacker culture" is *historically* coded male and privileged. If there are attempts to reclaim the term, I'd love to have some more information to read about that.
