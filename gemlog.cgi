@@ -23,7 +23,7 @@ $blog_language = "en";
 $blog_encoding = "UTF-8";
 
 # Where are this blog's entries kept?
-$datadir = "/home/gustaf/gemini/gemlog-data";
+$datadir = "/home/gustaf/gemsite/gemlog-data";
 
 # What's my preferred base URL for this blog (leave blank for automatic)?
 $url = "gemini://gerikson.com/gemlog";
@@ -52,7 +52,7 @@ $show_future_entries = 0;
 $plugin_list = "";
 
 # Where are my plugins kept?
-$plugin_dir = "/home/gustaf/gemini/gemlog-plugins";
+$plugin_dir = "/home/gustaf/gemsite/gemlog-plugins";
 
 # Where should my plugins keep their state information?
 $plugin_state_dir = "$plugin_dir/state";
