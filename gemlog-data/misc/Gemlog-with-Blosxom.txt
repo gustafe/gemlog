@@ -1,12 +1,13 @@
 Setting up a gemlog with Blosxom
 meta-creation_date: 2021-10-06 14:32:28
+meta-updated: Thursday, 2021-10-07
 I've used [Bloxsom] for ages for my blog. It's a nice simple system with a lot of plugins for more powerful functionality. 
 
 => http://blosxom.sourceforge.net/ Blosxom
 
 ## Prerequisites
 
-You need your own Unix server connected to the internet.
+You need your own Unix host connected to the internet.
 
 You need to have a gemini server installed and working.
 
@@ -83,6 +84,8 @@ Here are the ones I use:
 * entriescache - keeps posting dates intact
 * flavourdir - enables you to keep flavour files in your data directory, instead of in the plugin directory 
 * pagetype - enables conditions based on pagetype
+* SmartyPants - enables "smart" quotes and punctuation
+
 
 ## Setting up for gemtext
 
@@ -208,3 +211,7 @@ else {
 ```
 
 This will show 15 entries on the front page, but 999 on date or category pages. 
+
+### Update Thursday, 2021-10-07
+
+I've also enabled the SmartyPants plugins which enables "smart" punctuation. I had to modify the original to replace HTML entities with straight UTF-8 characters. 
