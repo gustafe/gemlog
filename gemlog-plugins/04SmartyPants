@@ -232,19 +232,19 @@ sub SmartyPants {
                     if ($t eq q/'/) {
                         # Special case: single-character ' token
                         if ($prev_token_last_char =~ m/\S/) {
-                            $t = "&#8217;";
+                            $t = "’";
                         }
                         else {
-                            $t = "&#8216;";
+                            $t = "‘";
                         }
                     }
                     elsif ($t eq q/"/) {
                         # Special case: single-character " token
                         if ($prev_token_last_char =~ m/\S/) {
-                            $t = "&#8221;";
+                            $t = "”";
                         }
                         else {
-                            $t = "&#8220;";
+                            $t = "“";
                         }
                     }
                     else {
@@ -323,19 +323,19 @@ sub SmartQuotes {
                 if ($t eq q/'/) {
                     # Special case: single-character ' token
                     if ($prev_token_last_char =~ m/\S/) {
-                        $t = "&#8217;";
+                        $t = "’";
                     }
                     else {
-                        $t = "&#8216;";
+                        $t = "‘";
                     }
                 }
                 elsif ($t eq q/"/) {
                     # Special case: single-character " token
                     if ($prev_token_last_char =~ m/\S/) {
-                        $t = "&#8221;";
+                        $t = "”";
                     }
                     else {
-                        $t = "&#8220;";
+                        $t = "“";
                     }
                 }
                 else {
@@ -446,7 +446,7 @@ sub EducateQuotes {
 #   Returns:    The string, with "educated" curly quote HTML entities.
 #
 #   Example input:  "Isn't this fun?"
-#   Example output: &#8220;Isn&#8217;t this fun?&#8221;
+#   Example output: “Isn’t this fun?”
 #
 
     local $_ = shift;
@@ -463,20 +463,20 @@ sub EducateQuotes {
 
     # Special case if the very first character is a quote
     # followed by punctuation at a non-word-break. Close the quotes by brute force:
-    s/^'(?=$punct_class\B)/&#8217;/;
-    s/^"(?=$punct_class\B)/&#8221;/;
+    s/^'(?=$punct_class\B)/’/;
+    s/^"(?=$punct_class\B)/”/;
 
 
     # Special case for double sets of quotes, e.g.:
     #   <p>He said, "'Quoted' words in a larger quote."</p>
-    s/"'(?=\w)/&#8220;&#8216;/g;
-    s/'"(?=\w)/&#8216;&#8220;/g;
+    s/"'(?=\w)/“‘/g;
+    s/'"(?=\w)/‘“/g;
 
     # Special case for decade abbreviations (the '80s):
-    s/'(?=\d{2}s)/&#8217;/g;
+    s/'(?=\d{2}s)/’/g;
 
     my $close_class = qr![^\ \t\r\n\[\{\(\-]!;
-    my $dec_dashes = qr/&#8211;|&#8212;/;
+    my $dec_dashes = qr/–|—/;
 
     # Get most opening single quotes:
     s {
@@ -490,7 +490,7 @@ sub EducateQuotes {
         )
         '                   # the quote
         (?=\w)              # followed by a word character
-    } {$1&#8216;}xg;
+    } {$1‘}xg;
     # Single closing quotes:
     s {
         ($close_class)?
@@ -500,10 +500,10 @@ sub EducateQuotes {
         )               # char or an 's' at a word ending position. This
                         # is a special case to handle something like:
                         # "<i>Custer</i>'s Last Stand."
-    } {$1&#8217;}xgi;
+    } {$1’}xgi;
 
     # Any remaining single quotes should be opening ones:
-    s/'/&#8216;/g;
+    s/'/‘/g;
 
 
     # Get most opening double quotes:
@@ -518,7 +518,7 @@ sub EducateQuotes {
         )
         "                   # the quote
         (?=\w)              # followed by a word character
-    } {$1&#8220;}xg;
+    } {$1“}xg;
 
     # Double closing quotes:
     s {
@@ -526,10 +526,10 @@ sub EducateQuotes {
         "
         (?(1)|(?=\s))   # If $1 captured, then do nothing;
                            # if not, then make sure the next char is whitespace.
-    } {$1&#8221;}xg;
+    } {$1”}xg;
 
     # Any remaining quotes should be opening ones.
-    s/"/&#8220;/g;
+    s/"/“/g;
 
     return $_;
 }
@@ -542,12 +542,12 @@ sub EducateBackticks {
 #               translated into HTML curly quote entities.
 #
 #   Example input:  ``Isn't this fun?''
-#   Example output: &#8220;Isn't this fun?&#8221;
+#   Example output: “Isn't this fun?”
 #
 
     local $_ = shift;
-    s/``/&#8220;/g;
-    s/''/&#8221;/g;
+#    s/``/“/g;
+#    s/''/”/g;
     return $_;
 }
 
@@ -559,12 +559,12 @@ sub EducateSingleBackticks {
 #               translated into HTML curly quote entities.
 #
 #   Example input:  `Isn't this fun?'
-#   Example output: &#8216;Isn&#8217;t this fun?&#8217;
+#   Example output: ‘Isn’t this fun?’
 #
 
     local $_ = shift;
-    s/`/&#8216;/g;
-    s/'/&#8217;/g;
+    s/`/‘/g;
+    s/'/’/g;
     return $_;
 }
 
@@ -578,7 +578,7 @@ sub EducateDashes {
 #
 
     local $_ = shift;
-    s/--/&#8212;/g;
+    s/--/—/g;
     return $_;
 }
 
@@ -593,8 +593,8 @@ sub EducateDashesOldSchool {
 #
 
     local $_ = shift;
-    s/---/&#8212;/g;    # em
-    s/--/&#8211;/g;     # en
+    s/---/—/g;    # em
+    s/--/–/g;     # en
     return $_;
 }
 
@@ -616,8 +616,8 @@ sub EducateDashesOldSchoolInverted {
 #
 
     local $_ = shift;
-    s/---/&#8211;/g;    # en
-    s/--/&#8212;/g;     # em
+    s/---/–/g;    # en
+    s/--/—/g;     # em
     return $_;
 }
 
@@ -630,12 +630,12 @@ sub EducateEllipses {
 #               there are spaces between the dots.
 #
 #   Example input:  Huh...?
-#   Example output: Huh&#8230;?
+#   Example output: Huh…?
 #
 
     local $_ = shift;
-    s/\.\.\./&#8230;/g;
-    s/\. \. \./&#8230;/g;
+    s/\.\.\./…/g;
+    s/\. \. \./…/g;
     return $_;
 }
 
@@ -646,22 +646,22 @@ sub StupefyEntities {
 #   Returns:    The string, with each SmartyPants HTML entity translated to
 #               its ASCII counterpart.
 #
-#   Example input:  &#8220;Hello &#8212; world.&#8221;
+#   Example input:  “Hello — world.”
 #   Example output: "Hello -- world."
 #
 
     local $_ = shift;
 
-    s/&#8211;/-/g;      # en-dash
-    s/&#8212;/--/g;     # em-dash
+    s/–/-/g;      # en-dash
+    s/—/--/g;     # em-dash
 
-    s/&#8216;/'/g;      # open single quote
-    s/&#8217;/'/g;      # close single quote
+    s/‘/'/g;      # open single quote
+    s/’/'/g;      # close single quote
 
-    s/&#8220;/"/g;      # open double quote
-    s/&#8221;/"/g;      # close double quote
+    s/“/"/g;      # open double quote
+    s/”/"/g;      # close double quote
 
-    s/&#8230;/.../g;    # ellipsis
+    s/…/.../g;    # ellipsis
 
     return $_;
 }
@@ -882,7 +882,7 @@ In the case above, SmartyPants will turn the apostrophe into an opening
 single-quote, when in fact it should be a closing one. I don't think
 this problem can be solved in the general case -- every word processor
 I've tried gets this wrong as well. In such cases, it's best to use the
-proper HTML entity for closing single-quotes (C<&#8217;>) by hand.
+proper HTML entity for closing single-quotes (C<’>) by hand.
 
 
 
@@ -991,7 +991,7 @@ proper HTML entity for closing single-quotes (C<&#8217;>) by hand.
         character. This fixes a bug where SmartyPants would mis-curl
         the opening quote in something like this:
 
-            "&#8230;whatever"
+            "…whatever"
 
     +   SmartyPants has always had a special case where it looks for
         "'s" in situations like this:
@@ -1015,8 +1015,8 @@ proper HTML entity for closing single-quotes (C<&#8217;>) by hand.
             smarty_pants="-1"
 
         SmartyPants will perform reverse transformations, turning HTML
-        entities into plain ASCII equivalents. E.g. "&#8220;" is turned
-        into a simple double-quote ("), "&#8212;" is turned into two
+        entities into plain ASCII equivalents. E.g. "“" is turned
+        into a simple double-quote ("), "—" is turned into two
         dashes, etc. This is useful if you are using SmartyPants from Brad
         Choate's MT-Textile text filter, but wish to suppress smart
         punctuation in specific MT templates, such as RSS feeds. Text
