@@ -84,8 +84,6 @@ Here are the ones I use:
 * entriescache - keeps posting dates intact
 * flavourdir - enables you to keep flavour files in your data directory, instead of in the plugin directory 
 * pagetype - enables conditions based on pagetype
-* SmartyPants - enables "smart" quotes and punctuation
-
 
 ## Setting up for gemtext
 
@@ -211,7 +209,3 @@ else {
 ```
 
 This will show 15 entries on the front page, but 999 on date or category pages. 
-
-### Update Thursday, 2021-10-07
-
-I've also enabled the SmartyPants plugins which enables "smart" punctuation. I had to modify the original to replace HTML entities with straight UTF-8 characters. 
