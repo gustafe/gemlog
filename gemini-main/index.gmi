@@ -10,9 +10,10 @@ Only some stuff from my [main web presence] and [blog] is reproduced here, in de
 => https://gerikson.com/ main web presence
 => https://gerikson.com/blog blog
 
+## Gemroll
+=> gemini://gerikson.com/gemroll.gmi Gemroll
 ## my newish Gemlog
 => gemini://gerikson.com/gemlog/
-
 ## My thoughts on Gemini (trigger warning: I am not a fan)
 => gemini://gerikson.com/gemlog/gemini-sux/Gemini-misaligned-incentives.gmi Gemini: the misaligned incentives, or: gemtext sucks (2021-09-28)
 => gemini://gerikson.com/gemlog/gemini-sux/Why-u-no-gemini.gmi Why Gemini is not my favorite internet protocol (2021-06-11)
@@ -24,12 +25,10 @@ Only some stuff from my [main web presence] and [blog] is reproduced here, in de
 ## Other stuff
 
 ### Lobste.rs drafts
-
 This is a collection of drafts I've written through the years that might or might not have been posted to lobste.rs.
 => gemini://gerikson.com/gemlog/lobsters-drafts/
 
 ### Misc
-
 Other stuff
 => gemini://gerikson.com/gemlog/misc/
 
