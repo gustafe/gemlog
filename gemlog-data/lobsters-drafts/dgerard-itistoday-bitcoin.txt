@@ -1,0 +1,28 @@
+@dgerard, @itistoday on Bitcoin
+meta-creation_date: 2018-05-14 06:06:06
+To facilitate discussion I've linked the 4 comments posted by @itistoday in order below, along with a short summary
+
+\#1. "the" - Twitter search for the terms "Bitcoin" and "energy" from Twitter user [@taoeffect <Greg Slepak @taoeffect@mstdn.io>](https://twitter.com/taoeffect), whom we can reasonably assume is @itistoday.
+=> https://twitter.com/taoeffect [@taoeffect <Greg Slepak @taoeffect@mstdn.io>]
+
+All following Twitter links are by the same Twitter user.
+
+\#2. "arguments" - link to tweet, 
+=> https://twitter.com/taoeffect/status/913140279573495808
+which links to a post on Lobste.rs, 
+=> https://lobste.rs/s/selc7k/bitcoin_energy_consumption_index#c_agchk7
+along with a screenshot of the post. I encourage anyone to read the replies to @itistoday's post there, no need to rehash them here.
+
+\#3. "why" - link to tweet, 
+=> https://twitter.com/taoeffect/status/925834168990175232
+which is the text 
+
+> Thank Bitcoin for making its energy usage easy to measure. :D
+
+/#4. "it's wrong" - link to tweet,
+=> https://twitter.com/taoeffect/status/782437242639818752
+which is the text 
+
+> Energy usage is not a valid argument against #Bitcoin's PoW, but it is a valid argument for switching to clean energy sources.
+
+Note that links 2,3 and 4 are included in link 1, along with some other tweets that can be characterized as quips. 

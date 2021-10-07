@@ -1,0 +1,4 @@
+# Gemroll
+
+=> gemini://warmedal.se/~antenna/ Antenna
+=> gemini://idiomdrottning.org/sub Idiomdrottning

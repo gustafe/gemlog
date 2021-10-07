@@ -1,0 +1,29 @@
+It is your moral obligation to use Firefox
+meta-creation_date: 2019-04-16 06:46:31
+Start:
+=> https://lobste.rs/s/usimdb/it_is_your_moral_obligation_use_firefox#c_g88c0g
+reply to:
+=>https://lobste.rs/s/usimdb/it_is_your_moral_obligation_use_firefox#c_tylra6
+
+I'll try.
+
+In [my first comment] on this thread, I made the analogy between the browser ecosystem and the wider IRL ecosystem that exists on this planet.
+=> https://lobste.rs/s/usimdb/it_is_your_moral_obligation_use_firefox#c_g88c0gmy first comment
+
+My basic point was that any action I take as an individual has very little to no impact whatsoever in a positive direction in any of these ecosystems. I made this comment after my (unstated) reflection on the limitations of private, volunteer action in regards to environmentalism. I believe the only viable way to lessen the impact of humanity on the environment are communal - restrictions on certain products, taxation of consumption of certain goods. 
+
+Scaling that down to the browser ecosystem, I don't believe that supporting one "free to play", ad-supported browser over another will significantly help keeping the internet free and open.
+
+You stated in [your comment]:
+=> https://lobste.rs/s/usimdb/it_is_your_moral_obligation_use_firefox#c_dzq49f 
+
+> In other words: why bother voting anyway? It’s not like my vote means anything… /s
+
+(sarcasm tag noted!)
+
+A counter-example: 
+
+Voters in Sweden have enabled a party (the Green party) to enter government, and leverage this power to ensure that gasoline taxes in Sweden are around 50% of the cost of a liter of fuel at the pump. 
+
+Thus the result of an election led indirectly to a policy that in its turn incentivizes consumers to choose cars with better gas mileage. This in its turn contributes to Sweden trying to reach its internationally agreed-upon carbon emission target. 
+

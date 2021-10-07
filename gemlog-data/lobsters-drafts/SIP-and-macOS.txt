@@ -1,0 +1,12 @@
+Lobsters SIP and MacOS
+meta-creation_date: 2019-10-02 10:41:27
+Proposed reply to
+=> https://lobste.rs/s/lfityx/whoops_google_says_mysterious_wave#c_aegfeu
+
+Qouting from Google's statement in the linked article:
+
+> If you have not taken steps to disable System Integrity Protection and your computer is on OS X 10.9 or later, this issue cannot affect you
+
+OS X 10.9 was released in October 2013. SIP has been a feature of OS X since 10.11 ("El Capitan")[1]
+
+[1] all of this is from Wikipedia

@@ -1,0 +1,17 @@
+Lobsters Python 2 and PyPy
+meta-creation_date: 2019-09-11 06:52:44
+Replying to
+=> https://lobste.rs/s/kmk2rd/sunsetting_python_2#c_gqxeji
+
+> These words purport to speak for PyPy’s team and any other Python 2 team
+
+The original post was published on python.org, which has an SSL cert published by the Python Software Foundation. It's published by the PSF and speaks for *them*. 
+
+You are making weird semantic shifts between "Python the language", "Python the implementation", and "Python the trademark" all over the place. 
+
+It's clear you (and maybe the rest of PyPy) have no love for Guido van Rossum, and maybe not the PSF. But the fact is that they own the trademark to Python. Trademarks exist in part to prevent customers from confusing one product for another. That way, no-one will be confused when the code they get from the PSF (Python 3) won't run on PyPy (Python 2). 
+
+That said, I'm sure no-one would object to say a product called "PyPy - a version of the Python language and runtime based on Python version 2.7".
+
+From what I've read in this thread, it seems that PyPy wants to have their cake and eat it - they want full and continued support from the PSF for Python 2, while at the same time being entirely separate from them and not have to follow the PSF in any other matter.  I really don't see why the PSF has to go along with this arrangement. 
+

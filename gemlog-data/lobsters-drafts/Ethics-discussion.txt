@@ -1,0 +1,15 @@
+Ethics discussion on Lobste.rs
+meta-creation_date: 2019-10-18 06:41:58
+=> https://lobste.rs/s/cuopao/gitlab_vetting_non_evil_customers_is_time#c_wsxayu
+
+Here's the quote from @gthm again, with my emphasis this time
+
+> I’m in the camp that thinks we need to have very serious talks about ethics in software engineering, __but that’s not really what lobste.rs wants to be about__ [...]
+
+This is what you took from that sentence
+
+> “ethics can certainly be important but i don’t want to see it discussed here because it may disturb me”
+
+It's clear from @gthm's words that they'd like to discuss these questions, but they are currently considered off-topic on Lobste.rs. So instead of passive-aggressively attacking @gthm, you should raise this issue with the community, like here:
+
+=> https://lobste.rs/s/s1gzie/adding_politics_related_tag

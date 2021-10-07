@@ -1,0 +1,9 @@
+Clients I use
+meta-creation_date: 2021-10-07 05:40:54
+
+* Lagrange - macOS
+* Geminaut - Windows
+* amfora - console
+* Elaho - iOS
+
+Keeping these in sync is a fool's errand. I'm going to create a "bookmarks page" hosted here.
