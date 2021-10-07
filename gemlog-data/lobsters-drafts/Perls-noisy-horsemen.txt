@@ -1,6 +1,5 @@
 Perl's noisy horsemen
 meta-creation_date: 2021-07-21 08:49:06
-
 => https://lobste.rs/s/oa8sgi/four_noisy_horsemen_perl_hate
 
 Perl's original sin is There's More Than One Way To Do It.

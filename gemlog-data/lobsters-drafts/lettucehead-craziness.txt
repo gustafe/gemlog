@@ -1,13 +1,11 @@
-lettucehead craziness 
+lettucehead craziness
 meta-creation_date: 2020-03-01 09:49:55
-
 ### Freeman Dyson
 ```
 submission 82z8oc, 
 removed 2020-02-28 18:31 -0600, 
 link: https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society
 ```
-
 
 ### lettucehead 
 
@@ -61,7 +59,6 @@ Or, perhaps you think that reading a story within a story requires the ability t
 On the contrary, over and against your own summary conclusion, which i personally find inconclusive, you personally suggested the opposite two comments ago, here:
 
 => https://lobste.rs/s/1huwhw/testing_gerikson_s_idea
-
 
 ### gerikson 
 

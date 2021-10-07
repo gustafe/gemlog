@@ -1,6 +1,5 @@
 Bitmapped fonts
 meta-creation_date: 2020-07-27 07:36:29
-
 => https://lobste.rs/s/reqhua/why_not_just_use_bitmap_fonts#c_pzxndv
 
 You're setting up a straw man.

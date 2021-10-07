@@ -1,6 +1,5 @@
 Weird coiner dude
 meta-creation_date: 2019-11-18 09:40:43
-
 ``` IRC transcript
 05:45 < librehash> Thank God the code is open source. I can at least be
                    confident my instance will exist after lobste.rs dies

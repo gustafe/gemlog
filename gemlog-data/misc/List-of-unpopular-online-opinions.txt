@@ -1,6 +1,5 @@
 List of unpopular online opinions
 meta-creation_date: 2021-10-05 18:21:29
-
 ## Computing and the Web
 
 There's nothing particularly wrong with `systemd`.

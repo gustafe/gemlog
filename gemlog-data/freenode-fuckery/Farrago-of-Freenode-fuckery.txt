@@ -1,6 +1,5 @@
-A Farrago of Freenode Fuckery 
+A Farrago of Freenode Fuckery
 meta-creation_date: 2021-06-15 10:43:28
-
 Well it's been a crazy few weeks.
 
 * 2017 - in a shady deal, Andrew Lee acquires some assets related to Freenode.

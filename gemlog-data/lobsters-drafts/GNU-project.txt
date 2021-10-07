@@ -1,6 +1,5 @@
-Lobsters GNU project 
+Lobsters GNU project
 meta-creation_date: 2021-09-28 08:47:01
-
 proposed reply to
 
 => https://lobste.rs/s/jtsabz/what_gnu#c_mozm8i

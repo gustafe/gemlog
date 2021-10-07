@@ -1,7 +1,9 @@
 Lobsters invite process
 meta-creation_date: 2021-10-05 18:42:10
+meta-updated: Thursday, 2021-10-07
+NOTE 2021-10-07: I wrote these notes in 2020, but as far as I remember I never submitted them to the site as a formal proposal. I may have discussed them on IRC.
 
-(Originally noted in Feb 2020)
+I still believe that there's a tension between filtering out "undesirables" and creating a cultural monoculture. I've tried to be as inclusive as possible when inviting people, but the very fact you need to use IRC means there is a filter in place.
 
 ## Goals
 

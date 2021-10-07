@@ -1,6 +1,5 @@
 csh
 meta-creation_date: 2020-03-21 13:18:59
-
 > It’s lean
 
 The $55 computer I purchased 2 weeks ago can run X11 in 4K. Micro-optimizing shell performance doesn't make that much sense these days.

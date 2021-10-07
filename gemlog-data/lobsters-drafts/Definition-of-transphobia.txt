@@ -1,6 +1,5 @@
 Definition of transphobia
 meta-creation_date: 2021-04-11 07:15:29
-
 => https://lobste.rs/s/ccseq4/activitypub_secret_weapon_fediverse#c_aot9nt
 
 A person who is xenophobic does not *fear* foreigners, they hate them and wish to deny them their rights.

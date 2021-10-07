@@ -1,7 +1,6 @@
 iPhone comment
 meta-creation_date: 2020-05-25 18:31:03
-
-https://lobste.rs/s/oyxpva/i_had_jailbreak_my_iphone_change_default#c_hoke6x
+=> https://lobste.rs/s/oyxpva/i_had_jailbreak_my_iphone_change_default#c_hoke6x
 
 I can resell my iPhone privately and keep the proceeds. Apple provides detailed explanations on how to prepare the device for resale so that no private information is leaked. 
 

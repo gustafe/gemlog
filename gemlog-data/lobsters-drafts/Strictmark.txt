@@ -1,6 +1,5 @@
 StrictMark
 meta-creation_date: 2021-01-31 13:29:52
-
 => https://lobste.rs/s/lbqaev/strictmark_rational_markdown
 
 (This comment was not  submitted)

@@ -1,6 +1,5 @@
 Linux CNC
 meta-creation_date: 2020-09-10 06:39:29
-
 Craziness begins here
 => https://lobste.rs/s/ajyeka/linuxcnc_2_8_0_released#c_7cccab
 

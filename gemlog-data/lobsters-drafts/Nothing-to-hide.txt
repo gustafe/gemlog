@@ -1,6 +1,5 @@
 Nothing to hide
 meta-creation_date: 2021-02-10 14:33:57
-
 => https://lobste.rs/s/6yrndd
 
 > Good morning,

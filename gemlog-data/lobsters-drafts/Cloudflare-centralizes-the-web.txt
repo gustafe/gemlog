@@ -1,6 +1,5 @@
 Cloudflare centralizes the web
 meta-creation_date: 2021-02-08 06:37:25
-
 => https://lobste.rs/s/toxu4r/intermittent_503s_on_cloudflare_s_free#c_cnzqri
 
 The centralization that actors like Cloudflare embody isn't some nefarious plot, but simply market responses to utter lack of DDoS protection in the so-called "decentralized" web. 

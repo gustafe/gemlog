@@ -1,12 +1,10 @@
-Off topic discussion 
+Off topic discussion
 meta-creation_date: 2020-03-09 06:36:40
-
 => https://lobste.rs/s/gqv6xj/google_tracked_his_bike_ride_past#c_boms60
 
 > I think “computing” and “technology” are broader than just “programming,” and this is a forum on the two former, which includes the latter. 
 
 There are no tags for “computing” or “technology” so they’re per definition not on topic. 
-
 
 > there are also technical solutions to these kinds of problems, or at least technologies (within cryptography, for example) which seek to enable these kinds of functionalities without compromising privacy completely.
 

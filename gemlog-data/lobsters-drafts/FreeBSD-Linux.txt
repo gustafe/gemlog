@@ -1,6 +1,5 @@
 FreeBSD / Linux
 meta-creation_date: 2021-05-05 07:06:12
-
 => https://lobste.rs/s/qdtybw/as_longtime_bsd_user_i_have_my_doubts_about#c_2jn5xh
 
 ---

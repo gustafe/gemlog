@@ -1,6 +1,5 @@
 Reply to friendlysock re: Linus "ousting"
 meta-creation_date: 2021-06-22 07:09:44
-
 => https://lobste.rs/s/vqmn0u/linux_sucks_2021_end_linux_is_nigh#c_ujfhzj
 
 Absent any clear evidence to the contrary, urging Linus to change his behavior could either be expressions of hope that he *would* change, thereby improving relationships among the kernel development team, helping Linus become a better adjusted person and rescuing his legacy from mean-spirited cherry-picking attacks on his character.

@@ -1,6 +1,5 @@
 Ramadan vs Easter
 meta-creation_date: 2021-10-05 09:59:04
-
 Context:
 => https://lobste.rs/s/cxzpfn/jewmain_driven_design#c_x5cdoz
 

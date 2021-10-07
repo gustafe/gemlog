@@ -1,6 +1,5 @@
 Opinionated guide to Urbit
 meta-creation_date: 2021-01-21 08:16:58
-
 => https://lobste.rs/s/bytov0/opinionated_introduction_urbit#c_eyhatr
 
 Or one could starve Yarvin and his coterie of both attention and resources by ignoring his performance art/philosophy experiment entirely.

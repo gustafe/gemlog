@@ -1,6 +1,5 @@
 Death of a channel
 meta-creation_date: 2021-06-05 14:32:56
-
 This is a short write-up of how a channel on Freenode was hijacked by staff, and how it was effectively deleted.
 
 ### Background

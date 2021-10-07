@@ -1,6 +1,5 @@
 Racing car image
 meta-creation_date: 2020-09-09 13:53:48
-
 => https://lobste.rs/s/hjz9uo/avif_has_landed#c_wdyjmv
 
 > The motion blur is arguably an important part of the original photo in that it gives a sense of movement

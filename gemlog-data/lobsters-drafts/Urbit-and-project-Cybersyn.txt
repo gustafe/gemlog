@@ -1,6 +1,5 @@
 Urbit and Project Cybersyn
 meta-creation_date: 2021-05-25 19:26:55
-
 ``` sql query
 select '* '|| strftime('%Y-%m-%d',created_time)||' ['|| title|| '](https://lobste.rs/s/'||id||')  Score: '|| score || ', comments: '||comments  from lobsters where title like '%urbit%' and created_time <='2016-01-01' order by created_time;
 ```

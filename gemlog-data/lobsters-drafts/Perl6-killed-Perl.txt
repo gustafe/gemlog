@@ -1,6 +1,5 @@
 "Perl 6 killed Perl"
 meta-creation_date: 2020-08-20 07:48:25
-
 => https://lobste.rs/s/lafa1h/did_breaking_backwards_compatibility#c_b0qkfa
 
 > The perl5/6 split killed perl. 

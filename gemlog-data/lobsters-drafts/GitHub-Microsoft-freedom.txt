@@ -1,6 +1,5 @@
 GitHub/Microsoft "freedom"
 meta-creation_date: 2020-05-05 18:45:41
-
 => https://lobste.rs/s/8xsdln/github_codespaces#c_ym7c4j
 
 > Well, some people live in countries under sanctions for one, 

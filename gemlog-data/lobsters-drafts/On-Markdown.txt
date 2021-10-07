@@ -1,7 +1,6 @@
 Comment on Markdown
 meta-creation_date: 2021-05-18 06:00:33
-
-Link: https://lobste.rs/s/klrbfr/why_isn_t_there_formal_grammar_for#c_jgd0as
+=> https://lobste.rs/s/klrbfr/why_isn_t_there_formal_grammar_for#c_jgd0as
 
 > The next time I read “Programs are meant to be read by humans and only incidentally for computers to execute”, I might refer them to Markdown.
 

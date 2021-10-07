@@ -1,6 +1,5 @@
 Styling webpages
 meta-creation_date: 2020-11-25 07:45:57
-
 => https://lobste.rs/s/akcw1m/opinionated_list_best_practices_for#c_xkhd6g
 
 > Textual websites don’t need fancy styles because styles aren’t a significant part of their content.

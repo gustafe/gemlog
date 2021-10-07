@@ -1,7 +1,6 @@
 Cashiers
 meta-creation_date: 2021-05-16 11:59:02
-
-=> https://lobste.rs/s/bmweso/ai_mid_2021_self_driving_car_meets_reality#c_nr8sfo  context 
+=> https://lobste.rs/s/bmweso/ai_mid_2021_self_driving_car_meets_reality#c_nr8sfo context 
 
 I can see the transition occurring here in Sweden. Here, retail jobs are generally unionized (or rather, union's collective bargaining set wages and working conditions), so the cost per hour of an employee is generally higher than in the US. The local supermarket has implemented self-checkout and self-price scanning, but there's still many employees working as stockers, helping those that don't want to self-scan, working in the deli counter, receiving goods etc etc.
 

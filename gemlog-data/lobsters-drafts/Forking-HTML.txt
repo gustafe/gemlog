@@ -1,6 +1,5 @@
 Forking HTML
 meta-creation_date: 2020-06-25 10:57:28
-
 => https://lobste.rs/s/zztnen/why_forking_html_into_static_language
 
 > I'm sure everyone who thinks the modern Web has gone off the rails has a slightly different list of features that should be allowed

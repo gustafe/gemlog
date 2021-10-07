@@ -2,6 +2,6 @@
 
 $body
 
----
-=> $url$path/$fn.gmi permanent link to this entry
-
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+=> $url$path/$fn.gmi ¶ $date_fullname::dw, $yr-$mo_num-$da
+=> $url$path/ » more posts in the $fmtcat::fmtcat category
