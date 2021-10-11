@@ -2,3 +2,6 @@ gemlog-plugins/state/.entries_cache.index
 .entries_cache.index
 gemlog-plugins/state/*
 gemlog-plugins/state/.entries_cache.others
+/err
+/gemlog-plugins/atomfeed.1
+gemlog-plugins/state/*
