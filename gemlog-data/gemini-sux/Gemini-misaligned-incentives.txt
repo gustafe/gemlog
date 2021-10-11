@@ -1,6 +1,6 @@
 Gemini: the misaligned incentives
 meta-creation_date: 2021-09-28 10:12:31
-meta-updated: Wednesday, 2021-10-06
+meta-updated: Updated on Wednesday, 2021-10-06
 This is a followup to [this post].
 
 => gemini://gerikson.com/Why-u-no-gemini.gmi this post

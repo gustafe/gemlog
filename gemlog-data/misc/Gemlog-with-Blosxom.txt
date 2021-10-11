@@ -1,8 +1,7 @@
 Setting up a gemlog with Blosxom
 meta-creation_date: 2021-10-06 14:32:28
-meta-updated: Thursday, 2021-10-07
+meta-updated: Updated on Sunday, 2021-10-10
 I've used [Bloxsom] for ages for my blog. It's a nice simple system with a lot of plugins for more powerful functionality. 
-
 => http://blosxom.sourceforge.net/ Blosxom
 
 ## Prerequisites
@@ -84,7 +83,8 @@ Here are the ones I use:
 * entriescache - keeps posting dates intact
 * flavourdir - enables you to keep flavour files in your data directory, instead of in the plugin directory 
 * pagetype - enables conditions based on pagetype
-
+* fmtcat - presents a nicely formatted string of the current category path
+* interpolate_fancy - better interpolation support 
 ## Setting up for gemtext
 
 By default, Blosxom will generate (non-semantic) HTML4. You are expected to write your posts in straight HTML. We will leverage that to serve straight gemtext.
@@ -106,13 +106,15 @@ I use `head.gmi` for stuff like the name of the blog, links to the main page, et
 `story.gmi` looks like this
 
 ``` story.gmi
-## $title
+# $title
 
 $body
 
----
-Posted on $date_fullname::dw, $yr-$mo_num-$da
-=> $url$path/$fn.gmi permanent link to this entry
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+=> $url$path/$fn.gmi ¶ $date_fullname::dw, $yr-$mo_num-$da
+=> $url$path/ » more posts in the ‹$fmtcat::fmtcat› category
+$meta::updated
+About this category: “$category_desc::description”
 ```
 
 Each story will have a 2nd level title (grabbed from the source file), the body, and then a permalink. Note that this is straight gemtext.
@@ -136,8 +138,8 @@ But gemlogs want to look like this
 
 ``` gemlog page
 HEAD
-=> link to STORY (DATE)
-=> link to STORY (DATE)
+=> link to DATE - TITLE
+=> link to DATE - TITLE
 [...]
 FOOT
 ```
@@ -145,9 +147,8 @@ FOOT
 To enable this, we'll use the `entries_template` plugin. Its config file lives in the `flavours` subdir too. Mine looks likes this:
 
 ``` entries template
-=> $url$path/$fn.gmi $title ($yr-$mo_num-$da)
+=> $url$path/$fn.gmi $yr-$mo_num-$da - $title
 ```
-
 Note the permalink construction is the same as in the story template. 
 
 ## First post!
@@ -188,7 +189,7 @@ This setup gives you flexibility in how to present your content, construct perma
 
 ## Re-rendering your gemlog
 
-Add the configuration `-all=1` to force a re-read of all files, not just new and edited ones. Use the `-quiet=1` option to supress output.
+Add the configuration `-all=1` to force a re-read of all files, not just new and edited ones. Use the `-quiet=1` option to suppress output.
 
 ## Getting fancy
 

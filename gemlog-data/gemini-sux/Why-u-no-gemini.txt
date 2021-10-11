@@ -1,6 +1,6 @@
 Why Gemini is not my favorite internet protocol
 meta-creation_date: 2021-06-11 12:16:46
-meta-updated: Wednesday, 2021-10-06
+meta-updated: Updated on Wednesday, 2021-10-06
 => https://gerikson.com/blog/comm/Why-u-no-gemini.html Original blog post
 
 TL;DR: the Gemini protocol removes too much functionality for it to interesting to me.
@@ -53,4 +53,3 @@ I’d also like to clarify that I wrote this rant basically to have a single pla
 
 Sadly, there are some Gemini enthusiasts who are the equivalent of people handing out flyers for some obscure club, and who get shirty when you try to politely explain that you’re not interested in attending. Those people are annoying, and they give Gemini a bad name.
 
-*Published Friday, 2021-06-11. Updated on Tuesday, 2021-08-24. Gemini version Monday 2021-09-27*
