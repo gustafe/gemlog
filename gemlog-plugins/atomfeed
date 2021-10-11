@@ -1,4 +1,4 @@
-# Blosxom Plugin: atomfeed -*-cperl-*-
+# Blosxom Plugin: atomfeed -*- mode: cperl; -*-
 # Author(s): Original plugin: Rael Dornfest <rael@oreilly.com>
 #            XML::Parser: Sam Ruby
 #            UTC and <modified> fixes for 0.3: Frank Hecker
@@ -24,7 +24,7 @@ $default_author = "gerikson";
 
 # What year was your weblog started?  This will be used 
 # to form part of your weblog's unique ID.
-$feed_yr = "2020";
+$feed_yr = "2018";
 
 # ----- Optional configurable variables -----
 
@@ -34,7 +34,7 @@ $author_uri = "";
 
 # What is the default author's email address?
 # Leave blank to exclude.
-$author_email = "";
+$author_email = '';
 
 # Copyright statement:
 # leave blank to exclude.
@@ -42,7 +42,7 @@ $copyright = "";
 
 # What domain should Blosxom use in ID tags?
 # Leave blank if you don't understand or for Blosxom to use the domain in $url.
-$id_domain = "";
+$id_domain = "gemini://gerikson.com";
 
 # Feed url
 # Set the URL of the atom feed here.  Defaults to $blosxom::url/index.atom
@@ -149,9 +149,7 @@ sub head {
   $copyright and $copyright = "<rights>$copyright</rights>";
 
   $author_uri or $author_uri = "<uri>$blosxom::url</uri>";
-
-#   $author_uri or $author_uri = "$blosxom::url";
-#   $author_uri = "<uri>$author_uri</uri>";
+#  $author_uri = "<uri>$author_uri</uri>";
 
   $author_email and $author_email = "\n      <email>$author_email</email>";
   $icon_url and $icon_url = "<icon>$icon_url</icon>";
@@ -269,8 +267,7 @@ sub foot {
     my($pkg, $currentdir, $foot_ref) = @_;
     # Replace the placeholder with the feed-level <updated> element:
     $feed_utc_date = "<updated>$feed_utc_date</updated>";
-    #    $blosxom::output =~ s/$template_placeholder/$feed_utc_date/m;
-    $blosxom::output =~ s/\Q$template_placeholder/$feed_utc_date/m;
+    $blosxom::output =~ s/$template_placeholder/$feed_utc_date/m; # 
     return 1;
 }
 
