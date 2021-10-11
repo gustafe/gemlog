@@ -2,6 +2,5 @@
 
 => gemini://warmedal.se/~antenna/ Antenna
 => gemini://idiomdrottning.org/sub Idiomdrottning
+=> gemini://gemini.panda-roux.dev/log panda-roux's gemlog
 
-## submit to Antenna
-=> gemini://warmedal.se/~antenna/submit?gemini%3A%2F%2Fgerikson.com%2Fgemlog%2Findex.atom
