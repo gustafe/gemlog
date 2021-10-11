@@ -34,7 +34,7 @@ $url = "gemini://gerikson.com/gemlog";
 $depth = 0;
 
 # How many entries should I show on the home page?
-$num_entries = 99;
+$num_entries = 15;
 
 # What file extension signifies a blosxom entry?
 $file_extension = "txt";
