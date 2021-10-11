@@ -3,14 +3,17 @@
 package category_desc;
 use strict;
 use vars qw( $description $title );
+
 # 'This category is called foo, and contains  '
 my %descriptions = (
-		    'freenode-fuckery'=> "Freenode implosion notes",
-		    'gemini-sux' => "All that is wrong with Gemini, or your money back",
-		    'lobsters-drafts' => "Sometimes I post to lobste.rs, sometimes I write angry rants that end up here but not there",
-		    misc => "What is says in the URL path",
-		     );
-
+    'freenode-fuckery' => "Freenode implosion notes",
+    'gemini-sux'       => "All that is wrong with Gemini, or your money back",
+    'lobsters-drafts'  =>
+        "Sometimes I post to lobste.rs, sometimes I write angry rants that end up here but not there",
+    misc               => "What is says in the URL path",
+    'äran-och-hjältarnas-språk' => "Inlägg på ren svenska",
+    'ebaums-world'              => "shit from the internit"
+);
 
 sub start {
     return 1;
@@ -25,9 +28,9 @@ sub head {
 }
 
 sub story {
-    my ($pkg, $path, $filename, $story_ref, $title_ref, $body_ref) = @_;
-    $path =~ s/.*\/([^\/]*)$/$1/;  # retain last dir
-    $path ||= '/';                 # can't have empty hash key
+    my ( $pkg, $path, $filename, $story_ref, $title_ref, $body_ref ) = @_;
+    $path =~ s/.*\/([^\/]*)$/$1/;    # retain last dir
+    $path ||= '/';                   # can't have empty hash key
     $description = $descriptions{$path};
     1;
 }

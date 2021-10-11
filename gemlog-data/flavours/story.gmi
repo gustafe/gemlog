@@ -1,7 +1,9 @@
-## $title
+# $title
 
 $body
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+$meta::updated
 => $url$path/$fn.gmi ¶ $date_fullname::dw, $yr-$mo_num-$da
-=> $url$path/ » more posts in the $fmtcat::fmtcat category
+=> $url$path/ » more posts in the ‹$fmtcat::fmtcat› category
+About this category: “$category_desc::description”

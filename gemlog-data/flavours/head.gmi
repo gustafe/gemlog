@@ -1,6 +1,3 @@
-# The occasional geminer
-
-Offcuts and rejects from https://gerikson.com/blog/ 
-
+## The occasional geminer - an artisanal, handcrafted gemlog
 => gemini://gerikson.com/gemlog/ ^ latest entries
 
