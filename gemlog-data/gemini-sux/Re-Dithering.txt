@@ -1,0 +1,9 @@
+Re: Dithering: an idea whose time has finally come?
+meta-creation_date: 2021-10-09 23:49:09
+
+=> gemini://mntn.xyz/posts/2021-10-09-dithering-an-idea-whose-time-has-finally-come/
+
+There's an interesting discussion about whether this actually saves any space compared to more aggressive JPG compression or using a more modern mechanism such as WebP over at Lobsters:
+=> https://lobste.rs/s/cxxfyx/why_your_website_should_use_dithered
+
+Note that with a net score of 18 and 26 comments this entry is almost "controversial" with a comment over score ratio close to 1.5.
