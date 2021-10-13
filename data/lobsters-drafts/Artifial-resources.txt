@@ -1,0 +1,20 @@
+Artificial resources
+meta-creation_date: 2019-10-20 09:57:34
+Reply to
+=> https://lobste.rs/s/c5gp8j/understanding_urbit#c_fizc6z
+
+Original thread reply
+
+> So you must also be against ICANN and their limited TLD designations? And against Twitter/Facebook for limiting users (shadow banning)?
+
+////
+
+ICANN is insufficiently regulated and holds an artificial monopoly. There's no technical limitation to prevent everyone on earth having their own TLD. So yes, I am against rent-seeking when it comes to TLDs.
+
+Facebook and Twitter identities are not artificially limited *de facto* - the services are awash in bots. 
+
+And in any case, I stated the following: 
+
+> [...] I don’t have a problem with this concept intellectually. People have different ideals and projects for the future of digital governance. 
+
+I just wish that people pushing Urbit would be honest about the project's ultimate goals.

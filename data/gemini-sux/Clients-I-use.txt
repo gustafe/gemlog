@@ -1,0 +1,37 @@
+Clients I use
+meta-creation_date: 2021-10-07 05:40:54
+meta-updated: Updated on Sunday, 2021-10-10
+### Lagrange - macOS
+I use this on macOS but it is multi-platform.
+Pros:
+* nice design
+
+### Geminaut - Windows
+Pros:
+* nice design
+Cons:
+* no tabs
+
+###  amfora
+Pros:
+* decent UI
+Cons:
+* inconsistent wrapping, but editing the settings to get a smaller left margin helped a lot. Thanks hedy for the tip.
+
+### Elaho - iOS
+Pros:
+* easy to use
+Cons:
+* limited customizability
+
+## Stuff I've tried and dissed
+
+### bombadillo
+Gopher-first, so doesn't wrap lines at all.
+Horrible vi-influenced navigation.
+
+### Castor
+Default UI is way too light, no easy way to change it.
+
+## General notes
+Keeping these in sync is a fool's errand. I'm going to create a "bookmarks page" hosted here.

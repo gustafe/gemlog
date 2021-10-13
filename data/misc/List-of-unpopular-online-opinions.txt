@@ -1,0 +1,18 @@
+List of unpopular online opinions
+meta-creation_date: 2021-10-05 18:21:29
+## Computing and the Web
+
+There's nothing particularly wrong with `systemd`.
+
+Serif monospaced typefaces are better than sans-serif.
+
+Signal is a good product.
+
+Monospace typefaces with ligatures are unneeded frippery. 
+
+The risk of a "browser monoculture" is overblown: 
+=> https://lobste.rs/s/lscdtd/reckless_infinite_scope_web_browsers
+
+## Photography
+
+I prefer thicker depth of field over thinner.

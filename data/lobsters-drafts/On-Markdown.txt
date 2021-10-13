@@ -1,0 +1,11 @@
+Comment on Markdown
+meta-creation_date: 2021-05-18 06:00:33
+=> https://lobste.rs/s/klrbfr/why_isn_t_there_formal_grammar_for#c_jgd0as
+
+> The next time I read “Programs are meant to be read by humans and only incidentally for computers to execute”, I might refer them to Markdown.
+
+> Markdown’s author (John Gruber) is quite clear that he does not care about whether it has a formal grammar. When edge cases have been found, he might try to fix them (in his implementation), but will just as likely say that as the human author of markdown, you should avoid those parts of the language. He’s like the sorcerer’s apprentice, if the apprentice looked around at all the animated brooms splashing water and said “seems fine to me”. Perhaps he’s even right about that, it’s just a way of viewing the language that conflicts with what many programmers expect.
+
+Markdown is not a programming language that translates human-readable text into machine-interpreted code, it's a markup that translate human-readable text into another form of human-readable text.
+
+Gruber is not the apprentice in this scenario. He set up a perfectly nice and serviceable working area, then a bunch of nerds came along and tried to use the pens and paintbrushes as brooms, and tiny cans of paint were pressed into service as water. Then when it didn't work they complained that the tools given were inadequate for the job. 

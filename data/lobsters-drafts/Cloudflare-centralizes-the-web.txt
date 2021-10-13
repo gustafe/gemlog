@@ -1,0 +1,9 @@
+Cloudflare centralizes the web
+meta-creation_date: 2021-02-08 06:37:25
+=> https://lobste.rs/s/toxu4r/intermittent_503s_on_cloudflare_s_free#c_cnzqri
+
+The centralization that actors like Cloudflare embody isn't some nefarious plot, but simply market responses to utter lack of DDoS protection in the so-called "decentralized" web. 
+
+In fact, a lot of the perceived evils of the "modern web" are simply responses to bad actors. Why is Gmail so dominant? Because a centralized webmail service is much better at detecting and filtering spam. Microtransactions didn't take off in part because payments over the internet were perceived as insecure - which paved the way for ad services. 
+
+And of course, a proposed network that had built-in DDoS and spam prevention would probably be seen as unacceptable privacy-invasive, as each and every packet could be traced back to an "authorized" sender. 

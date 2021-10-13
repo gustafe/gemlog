@@ -1,0 +1,15 @@
+Files and folders
+meta-creation_date: 2021-09-23 16:49:23
+=> https://lobste.rs/s/sttul0/concept_files_folder_unfamiliar_modern
+
+The concept of discrete files has been waning for a long time, simply because it's not what people comfortable using.
+
+When I use Lightroom, I'm generally in one Catalog - a collection of images. It's the high level overview for something like an editing project. But the only time you interact with the filesystem directly is when you open a new catalog and have to find its file. Images are Imported, and they are in the filesystem somewhere, but I made that choice *once*, when setting up Lightroom. If I need to find an image I search by tags or metadata within Lightroom, I don't spelunk the filesystem.
+
+This is similar to how old-school IDEs used to work - you had one "project file" and all the ancillary files hung off that. On the filesystem they were in little subfolders but as a programmer you only had to bother with the project/solution file.
+
+In Notepad++, if I open a new tab ("buffer") and then close and reopen the program, the contents are __still there__. I don't get an annoying popup asking me to select a place and a filename for some snippet I just pasted there just in case when I close. If I want to save the file, I can do so at my leisure.
+
+(Word *requires* me to close my file before I can email it, because it is an antediluvian dinosaur)
+
+Simplenote and OneNote work similarly. It's all saved transparently and with versions. I neither know nor care where the actual files are. 

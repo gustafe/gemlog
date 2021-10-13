@@ -1,0 +1,9 @@
+Opinionated guide to Urbit
+meta-creation_date: 2021-01-21 08:16:58
+=> https://lobste.rs/s/bytov0/opinionated_introduction_urbit#c_eyhatr
+
+Or one could starve Yarvin and his coterie of both attention and resources by ignoring his performance art/philosophy experiment entirely.
+
+In my view, Urbit is fundamentally flawed. The idea of artificial scarcity of digital resources is ludicrous. Reworking the fundamental idea in a sane programming language only perpetuates the central idea of artificial scarcity, and Yarvin "wins" anyway.  
+
+On a side note, this entry is well within the guidelines of this website but it's obviously a lightning rod for controversy. Maybe those that are interested in exploring Urbit should seek out an alternative forum to discuss it. 

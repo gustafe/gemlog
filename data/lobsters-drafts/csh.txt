@@ -1,0 +1,21 @@
+csh
+meta-creation_date: 2020-03-21 13:18:59
+> It’s lean
+
+The $55 computer I purchased 2 weeks ago can run X11 in 4K. Micro-optimizing shell performance doesn't make that much sense these days.
+
+> It’s embraced by the OpenBSD folks
+
+This can be both a blessing and a curse. I've used OpenBSD before and I respect the system but personally I find the community borderline weird. 
+
+> It has arrays (hell ya)
+
+1-based ones at that. Why the heck would a "C like shell" not have arrays that start at 0?
+
+> Scripts can start with the ‘#’ character only
+
+On what systems?
+
+> ‘cshrc’ configuration files read somewhat beautifully
+
+I read and edit shell config files maybe once every 3 years when I set up a new system (and I really should have them in version control, I know)

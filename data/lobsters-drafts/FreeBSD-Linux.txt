@@ -1,0 +1,23 @@
+FreeBSD / Linux
+meta-creation_date: 2021-05-05 07:06:12
+=> https://lobste.rs/s/qdtybw/as_longtime_bsd_user_i_have_my_doubts_about#c_2jn5xh
+
+---
+
+> Linux is funded now, primarily by large corporations and big businesses, [...] – their only motivation is Profit
+
+I'm old enough to remember BSD proponents explaining that the permissive license made industry adoption easier, so if you wanted to sell software you should target BSD and avoid the Copyleft Virus. 
+
+> [...] having a large workforce developing most of an operating system for them largely for free aids them in that. At the moment, Microsoft seems to be trying to do Embrace, Extend, Extinguish directly on Linux, after ignoring it for three decades.
+
+These two sentences are in direct contradiction to each other. Why would MSFT EEE Linux and risk losing a free workforce? 
+
+Maybe three decades is long enough for a leadership change to haver occurred and MSFT simply decided that funding Linux development makes good business sense. After all, they're making most of their money in the cloud space now, not desktop, so anything that cuts costs there is good for them. 
+
+> Poettering is on record saying that UNIX as a whole is a dead philosophy.
+
+This is an entirely valid standpoint. OS development should not reach its apotheosis in a student-run hack for a very cheap mainframe. 
+
+> Ten years from now, what will become of FreeBSD? Will FreeBSD be a Linux-lite™? Will Linux even exist? Because currently, that’s the path that we’re on and that’s what has a reasonable chance of occurring. How long before Linux itself is unrecognizable, not because of technical concerns and the need to push forward, but because the motives of profit have pushed it in a direction more favorable to large corporations? And with FreeBSD so tightly coupled to Linux, will FreeBSD be pushed into the same place?
+
+[...]

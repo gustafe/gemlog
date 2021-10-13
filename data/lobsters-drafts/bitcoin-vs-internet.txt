@@ -1,0 +1,9 @@
+bitcoin vs internet
+meta-creation_date: 2018-04-06 09:46:36
+I was lucky enough to be a student in 1992 onwards, and thus "present at the creation" of the modern Internet. Heck, I remember reading in our intro course in knowledge system (== libraries...) that some dude down at CERN was working on a "hypertext" system - like Gopher, but with graphics! Wild...
+
+Even at this early stage, the advantages were obvious. Instant communication with anyone else in the world (with an internet connection), an open publishing platform for content creation, new forms of advertizing... sure, there were bumps in the road (Dot.com bubble, anyone?)
+
+For example, sending an email is faster and easier than sending a letter through the post. Even the most die-hard internet skeptic was dimly aware of this fact. There were (and are!) issues with security/privacy.
+
+In contrast, Bitcoin/blockchain is presenting itself as an alternative to traditional payment systems. In a world where I can search for a specific widget, see it offered by a Chinese manufacturer, order it using a credit card, and get it delivered within a week

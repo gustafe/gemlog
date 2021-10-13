@@ -1,0 +1,5 @@
+Protean Unix
+meta-creation_date: 2020-04-04 07:19:17
+=> https://lobste.rs/s/uoamzh/growth_command_line_options#c_nibhsv
+
+Nothing illustrates the protean nature of the word “Unix” better than a self-described “[member of a l] unix die-hard tribe” advocating the use of a fork of a fork of a fork of a Berkeley system to approach the never-realized apotheosis of the AT&T ideal...

@@ -1,0 +1,7 @@
+SharePoint
+meta-creation_date: 2021-02-17 6:57:23
+=> https://lobste.rs/s/nnu4jy/software_architecture_how_you_make_them#c_1ffcol
+
+I agree, I'd not put SharePoint into the same category as C# or Excel. But MSFT don't give up. Sure, they drop stuff that's not gaining traction like a hot potato (goodbye Silverlight, we barely knew ye) but when it comes to stuff they do see the potential in they keep iterating.
+
+I see SharePoint more as "manager software" - concerned about stuff like "knowledge management" and compliance and all that shit people who do grunt work don't want to or have to be bothered with. 

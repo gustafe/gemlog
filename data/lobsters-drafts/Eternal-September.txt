@@ -1,0 +1,21 @@
+Lobsters eternal september
+meta-creation_date: 2021-05-08 08:57:48
+=> https://lobste.rs/s/fssseb/tragedy_gemini#c_ibjexm
+
+To be fair and a little snarky, it's a Gen-Z person being nostalgic of a past they've only ever read about.
+
+The eternal September [started 10,000 days ago](https://www.jwz.org/blog/2021/01/10k-september/). That's more than 27 years, which is well within a human generation. 
+
+Heck, Eternal September refers to *Usenet*, which isn't even in use anymore[1]
+
+What rubs me the wrong way about all these pseudo-retrospectives about how wonderful the Internet was before the Web is how much current users of the our global community are effectively erased. If you weren't student or faculty on a Western university (generally of a technical nature) you did not have Internet access[2]. So you were young-ish, male, and wrote English. (This certainly describes, I entered a technical university in Sweden in 1992).
+
+I know that the motivation for Gemini is expressly to get away from the current ad-tech-driven surveillance economy of the Internet, but like a lot of Internet people, there's a huge blind spot about how to do this. 
+
+Companies are not hoovering up tons of personal info with the help of JS-infected websites because JS exists, they're doing it because it's legal and easy and basically the only way to monetize content on the internet right now. 
+
+The solution isn't to cripple content so that JS cannot be used with it, the solution is to take a long hard look at the legal frameworks around privacy and how companies are allowed to use people's online behavior to make money. But (US) internet culture is conditioned to believe that this is literally impossible - that the political system in the US is so utterly broken that it's not feasible to work through it.
+
+[1] in before everyone who uses it to get pirated TV-shows chimes in and say they uses it daily - as a vessel for original culture and discussion, it's dead.
+
+[2] as opposed to BBS/FidoNet/dialup access, which is generally marginalized in these nostalgia-fests because their users moved on with their lives and didn't bother to 

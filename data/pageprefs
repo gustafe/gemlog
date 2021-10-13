@@ -1,0 +1,3 @@
+if (($pagetype::pagetype eq 'chrono') or ($pagetype::pagetype eq
+'category')) { $blosxom::num_entries = 999 } else
+{ $blosxom::num_entries = 15 };

@@ -1,0 +1,30 @@
+personal website
+meta-creation_date: 2020-01-10 09:31:28
+=> http://gerikson.com My personal domain is http://gerikson.com.
+
+The main action (such as it is) is in the blog:
+=> http://gerikson.com/blog.
+I've been blogging on and off since 2004. Now it's mostly book reviews and a selection of photographs. 
+
+The blog is Blosxom run in static mode. I started out with a static blog generated via bash, then to hosted Movable Type, then to Blosxom in dynamic mode, and finally to static. Content is written in Markdown. Plugins are [listed here]
+=> http://gerikson.com/blog/meta/colophon.html.
+
+Like many others I spent a lot of time dicking around with making things look nice. Now I'm happy if I manage to post something every month.
+
+I have some other stuff there too: 
+
+=> http://gerikson.com/cgi-bin/ticker.cgi
+- very simple, very slow, very janky Bitcoin price tracker. Originally created to poke fun at Bitcoin price predictions, I learned a lot about how to access remote APIs, page generation etc. Essentially static despite the `.cgi` suffix. When the API provider removed a free option, I considered shutting it down, but at least one other person liked it and emailed me to please keep it up, so I did.
+
+=> http://gerikson.com/hnlo/
+- what's high and low at HN and lobste.rs? Find out using this basic list! Created by scraping the respective feeds. Much easier to develop because I finally grokked templates.
+
+- code listings for Advent of Code, like [this for 2019]:
+=> http://gerikson.com/files/AoC2019/index.html
+This was implemented before I figured a remote git repo was a better solution.
+
+- a few other [odds] and [ends]. I like generating content by running a bunch of files through Markdown and throwing up the HTML.
+=> http://gerikson.com/pgfaqs/index.html
+=> http://gerikson.com/regnr.html
+
+In general, the most useful thing about my site is that it's a VPS on a domain that I control. This means I can easily share files, or hammer out a quick solution to an itch (HN&&LO is an example of this). 

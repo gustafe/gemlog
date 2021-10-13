@@ -1,0 +1,31 @@
+RMS on lobsters
+meta-creation_date: 2020-05-20 08:17:38
+`milesrout` (since banned, with reason: "Troll.") on Age of consent: 
+
+=> https://lobste.rs/s/jltpme/linux_sucks_2020#c_ku6ijt
+
+> It’s not really a stretch to say that the age of consent at 16 is too old. There are clearly kids having consensual sex that shouldn’t be illegal below that age, but not much below it. ‘Romeo and Juliet’ laws for anyone under 18 is probably a much more reasonable system.
+
+`zge` (since banned, with reason: "Warned and continued being an asshole. Starting your comment "even if I might get banned for this" doesn't make you brave or persecuted, it just makes you a slightly self-aware asshole.")
+
+=> https://lobste.rs/s/jltpme/linux_sucks_2020#c_ss0g2t
+
+> I especially recommend reading the “Low grade “journalists” and internet mob attack RMS with lies.”[1], article, perhaps more for it’s content than it’s choice of words.
+
+> The upside to this whole debacle is that RMS will probably have more tile to work on the GNU project. IMO the role of president of the FSF wasn’t ever the best for him – even if I disagree with they way they amputated him. I’ve been following the Emacs mailing list in more detail recently, and maybe I have a wrong impression, but I see him taking part in the discussions more than at least over the last few years.
+
+=> https://sterling-archermedes.github.io/ [1]
+
+I would recommend anyone who still harbors warm feelings for RMS to *not* read that article. It's laser-focused on pointing out every instance of RMS mentioning instances of sexual attraction to minors and "explaining" them. 
+
+A representative quote 
+
+> This time the only thing that was missing was the link to what exactly he was talking about. If you follow it, you will see:
+
+>> Amsterdam - Dutch paedophiles are launching a political party to push for a cut in the legal age for sexual relations to 12 from 16 and the legalisation of child pornography and sex with animals.
+
+> When people talk about pedophilia, what usually comes to mind is prepubescent children. Not what Stallman was referring to.
+
+The anonymous author of the piece has edited the article since first publication, as can be seen in this old screenshot:
+
+=> https://twitter.com/gerikson/status/1176211260142231552

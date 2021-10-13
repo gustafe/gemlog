@@ -1,0 +1,24 @@
+"Perl 6 killed Perl"
+meta-creation_date: 2020-08-20 07:48:25
+=> https://lobste.rs/s/lafa1h/did_breaking_backwards_compatibility#c_b0qkfa
+
+> The perl5/6 split killed perl. 
+
+Citation needed. The way I see it, the Perl community is broadly divided into sysadmin hackers who want to Get Stuff Done(tm) and language hackers that are fascinated by Perl's intricacies. 
+
+As time passed, other languages surpassed Perl in popularity, including in the domains where Perl was traditionally a strong contender (systems administration, web programming). This is just normal language evolution. Every language is not just the code, it's also the community, and maybe unfortunately for Perl, both subgroups just loooooved writing code that was close to write-only. This made it easy for other language's boosters to promote their vision instead.
+
+For example, comparing Python to Perl:
+
+* Perl: there's more than one way to it!  - Python: <endless fretting about whether a feature is "idiomatic">
+* Perl: there's a module for that! - Python: "batteries included"
+* Perl: diffuse bunch of mailing lists drive development - Python: BDFL, numerous PEPs
+* Perl: freedom to write code *your way* (C, Lisp, whatever) - Python: [bondage & discipline]
+
+=> http://catb.org/~esr/jargon/html/B/bondage-and-discipline-language.html [bondage & discipline]
+
+Seeing this, the language hackers embarked upon Perl6 (now Raku), and in the tradition of grand promises there was to be a shiny new modern Perl in a couple of years, ready to fulfill both group's needs and leapfrog the competition. But time passed, Raku got more and more complicated and never really got very fast, and the sysadmins decided to continue to work on Perl 5. 
+
+(The recently announced Perl 7 is Perl 5 but with an explicit focus on not retaining absolute backwards compatibility.)
+
+Perl is only "dead" if you view current TIOBE popularity rankings as proof of life. But Perl is getting relatively (and maybe absolutely) less popular - however, I'd argue that Raku was an attempt to reverse that course, not the cause of the slide.

@@ -1,0 +1,19 @@
+Nothing to hide
+meta-creation_date: 2021-02-10 14:33:57
+=> https://lobste.rs/s/6yrndd
+
+> Good morning,
+
+> Today I’ve got into one-of-many arguments about widely considered privacy and trading it for convenience and comfort (it didn’t even got into praising “safety” as a tradeoff). In most cases I talk about this with IT oriented people or at least those with some regular “computer literacy”, sometimes even better than average. And that’s fine, we usually get to the sane conclusions or someone gets convinced. I’m not trying to “evangelize” everyone or take this semi-religiously in “rms” style of course, but most “technical” (I really don’t like that term though, in 2020 we are all “technical”) people get the “big picture” of current state of individuals’ privacy as soon as they realize the scale and methods - some have their own views on that and understand the risks, others start to be more careful. Not a huge business though, no drama involved.
+
+> However, this time I’ve got into such sort of discussion into someone who doesn’t care at all. And while being quite young (that might be a problem on its own, too) he (or she) doesn’t use the computer at all, mostly the smartphone and probably some gaming console. Education and “background” isn’t even remotely related to any sort of technical domain at all. And, somehow, this person tries to defend the position of comfort no matter what. When being told the famous “if you have nothing to hide, you have nothing to say”, the person says it’s completely okay and he didn’t even wanted to say anything. Then goes to actually praising and accepting all data harvesting, exploitation, collection and analysis, which completely goes beyond my head and I almost took it as trolling, but sadly it was true.
+
+> Back to the topic, I can accept the fact we can often get a completely different “philosophical” standpoint to various parts of our lives, but on the other side this is something quite important, as it affects us all no matter which educational, political, social and economic position we take. But most of “arguments for privacy” being raised on various Internet discussions are thrown in assumption that other person is related to the technology even a little bit beyond the pure “consumer” attitude.
+
+> So, in short. __How do you talk about privacy and digital safety with plain, regular, non-technical people who admit they have nothing to say, so they have nothing to hide?__
+
+> it’s not only about this particular example which I put here only to let you imagine the small part of the problem. I want to hear about your own experiences and opinions about rising awareness and adjusting it to “regular” people, beyond the usual “just ignore them”.
+
+<hr/>
+
+Most people trust authority - said authority being either the government, the police, or  corporations. In Western democracies, this trust is, thankfully, often legitimate. 

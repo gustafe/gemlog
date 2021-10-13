@@ -1,0 +1,42 @@
+Urbit tech
+meta-creation_date: 2019-10-19 10:19:14
+=> https://lobste.rs/s/c5gp8j/understanding_urbit#c_bdghos
+
+> Let’s focus on technology.
+
+Yes, let's, and let's focus on the fact that the technology behind Urbit is obscure enough to be considered poetry 
+
+=> https://urbit.org/docs/tutorials/arvo/ford/
+
+> __%bake__
+
+> Tries to functionally produce the file at a given beam with the given mark and heel. It fails if there is no way to translate at this level.
+
+> __%boil__
+
+> Functionally produces the file at a given beam with the given mark and heel. If there is no way to translate at this beam, we pop levels off the stack and attempt to bake there until we find a level we can bake. This should almost always be called instead of %bake.
+
+> __%call__
+
+> Slams the result of one silk against the result of another.
+
+> __%cast__
+
+> Translates the given silk to the given mark, if possible. This is one of the critical and fundamental operations of ford.
+
+The Urbit project cloaks itself in the trappings of open source development, but the true knowledge is literally esoteric[1]. It's explicitly exclusionary, as [evinced by their own documentation]:
+=> https://urbit.org/understanding-urbit/project-history/
+
+> Urbit OS is a solid alpha. We use it every day to coordinate and chat about the future of Urbit. You’re welcome to join. __Our standards are high__, so we aren’t asking everyone to use Urbit OS yet.
+	
+Investing in an open-source project, whether as a developer or as an advocate, is a commitment of time and attention. Before committing, it's good to know what aims the project has. 
+
+[1] meaning that to contribute, you not only have to be invited, you also have to internalize a bunch of purposefully obscure terms.
+
+/////
+
+
+Urbit is *purposefully* obscure. Whether it's for CS art-house philosophical reasons, or because Curtis Yarvin would prefer the coming elite of the Dark Enlightenment to only use the tools he created, is irrelevant. 
+
+What's relevant is that people who have the time and energy to contribute to open source development have an almost infinite choice of projects to choose from. In the "meta-space" that Urbit inhabits (decentralized personal communications), we already have the Fediverse as something that is up and running, and that's much more welcoming and mainstream. 
+

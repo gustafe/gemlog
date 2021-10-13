@@ -1,0 +1,67 @@
+Gemini: the misaligned incentives
+meta-creation_date: 2021-09-28 10:12:31
+meta-updated: Updated on Wednesday, 2021-10-06
+This is a followup to [this post].
+
+=> gemini://gerikson.com/Why-u-no-gemini.gmi this post
+
+Since last time I took a <strike>dump</strike> long hard critical look at Gemini, I've  set up a server:
+=> gemini://gerikson.com
+
+This has forced me to actually write [gemtext], and boy do I not like it.
+=> gemini://gemini.circumlunar.space/docs/gemtext.gmi gemtext
+
+How does gemtext suck? Let me count the ways:
+
+### Long-ass lines
+
+Gemtext interprets all newlines as literal, so if you, like me, have been writing prose for time out of mind and have relied on your editor to justify paragraphs so the line isn't just one long one... a client will probably mangle these, depending on the width it is using to display paragraphs. You get unbelievably ugly ragged borders.
+
+But, the documentation says,
+
+> This means that, e.g. "dot point" lists or poems with deliberately  short lines will be displayed correctly without the author having to  do any extra work or the client having to be any smarter in order to  recognise and handle that kind of content corectly. (*sic!*)
+
+So, in order for simpler handling of "dot point" lists or poems, every author of gemtext will have to either live with long lines, or, more likely, introduce a [software component] before publishing to convert normally justified text paragraphs to long lines.
+=> https://sr.ht/~kota/gemgen/ software component
+
+There's another effect that I've noticed - boneheaded treatment of "text units" such as ISO dates and URIs. Most clients will happily treat a hyphen as an invitation to make a line break, regardless if this mangles dates or stuff like long command line options.
+
+### No inline links
+
+I've already ranted about this, but now I've read some more Gemini content, and I still believe this is the greatest loss of Gemini. Hypertext is its own thing. Being able to be creative, or strict, or whimsical, or coherent with how you place your links or how you add the link text is a great *expansion* of human expression through text.
+
+Gemini throws this away. It shows in most prose written in gemtext. The links are awkwardly placed, and the "placeholder" markers (such as numbers or brackets) to connect the text to the link below has not gelled to a standard.
+
+### No text markup (*italics* or __bold__)
+
+Centuries of typographical refinement and tradition, thrown away for no good reason.
+
+Note that this extents to newer conventions like `code fragments`, these are only supported as blocks, not inline.
+
+### What I don't actively despise
+
+The limit to 3 header levels and lack of numbered lists are personally ok for me.
+
+## Gemini culture prioritizes developers to a fault - but only up to a point
+
+Just today I found a [link] about something called "favicon.txt" - essentially a single emoji that the console client I use ([amfora]) could use as a site identifier in its tabs.
+=> gemini://gmi.bacardi55.io/gemlog/2021/02/25/my-thoughts-on-gemini-favicon-txt/ link
+=> https://github.com/makeworld-the-better-one/amfora amfora
+
+In any normal project, this would have been seen as a cool feature, but in Gemini it is seen as a harbinger of the adtech apocalypse. The protocol is fixed in stone - for the stated reason that it should be easy for a normally talented developer to code a client over a weekend.
+
+There's nothing inherently wrong with this ambition, but it must be realized that it turns the usual developer/user dynamic on its head. Normally, the user's requirements are interpreted by the developer, who makes concessions based on the user's explicit and implicit actions. For example, the ubiquitous hashtag was something that emerged organically among Twitter's users, and which the service incorporated as a new feature.
+
+This makes economic sense as an expression of comparative advantage. Generally, users are prepared to "pay"[1] to not have to code something themselves. The developer can be seen a domain expert, prepared to spend time and resources to craft a product that appeals to the most users.
+
+But Gemini states, as part of its explicit goals, that the protocol should be easy to develop for. This shifts the burden from the few (developers) to the many (users). To accommodate the ease of developers, users' expression must be hobbled.
+
+But it also means that developer's natural curiosity has to be limited, lest they stray from the one true path of being able to easily develop a new client, should they wish to.
+
+In short, Gemini is aligned towards a *new* developer, not invested in the ecosystem, to come in and develop software - but once they try to transition to a seasoned developer, or a user, the ecosystem denies them room to grow, to identify the pain points that have been overlooked by the original designers, or to take the project in a new direction.
+
+As I've stated before, I'm sympathetic to the goals of Gemini, but the means are entirely inadequate to reach those goals. It's an exercise in technical asceticism, dressed up in idealism.
+
+---
+
+[1] this payment need not be monetary, as in the case of *deep breath* Free/Libre and Open Source Software.

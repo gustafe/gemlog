@@ -1,0 +1,16 @@
+Racing car image
+meta-creation_date: 2020-09-09 13:53:48
+=> https://lobste.rs/s/hjz9uo/avif_has_landed#c_wdyjmv
+
+> The motion blur is arguably an important part of the original photo in that it gives a sense of movement
+
+It's not just the motion blur. The detailed image shows motion blur too, which makes it really hard to compare the quality.
+
+It's a decent racing car image (if a bit derivative). It's a bad image *for the stated purpose of comparing different compression methods*. In fact I wouldn't be surprised if it's intentionally chosen to make the comparison to JPG better for AVIF - who knows? 
+
+This image could have been chosen instead -
+
+=> https://flic.kr/p/2hgVPG2.
+
+It's a similar subject, but with better light, more details, and has both motion blur (in the wheels) and OOF blur (in the background).
+

@@ -1,0 +1,11 @@
+Socialism's DIY computer
+meta-creation_date: 2020-07-27 07:30:26
+=> https://lobste.rs/s/jebrp8/socialism_s_diy_computer#c_6uwvpd reply to
+
+> I think you’re missing the point.
+
+Maybe I am. I think the original quote is really hard to understand. Frankly I think it's just glib bargain-basement "deconstructionism" without much thought behind it, but let's try to expand on it. 
+
+I think the author is trying to say the same as you (which I agree with): access to computing does not mean access to the *fruits* of computing in the modern world. Just because someone under disadvantaged circumstances might teach themselves to code, doesn't mean they can get a job coding, or that they can get access to the capital needed to build a company around coding. 
+
+However, the author seems to believe that *in this particular counter-factual case* it would have been different somehow. Maybe because a DIY computer under (some value of) socialism would have led to a different outcome than a DIY computer under "capitalism" (i.e. the computing scene in the late 70s/early 80s in the US)? It's hard to say.

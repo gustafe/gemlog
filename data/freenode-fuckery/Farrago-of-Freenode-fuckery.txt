@@ -1,0 +1,52 @@
+A Farrago of Freenode Fuckery
+meta-creation_date: 2021-06-15 10:43:28
+Well it's been a crazy few weeks.
+
+* 2017 - in a shady deal, Andrew Lee acquires some assets related to Freenode.
+* 2021-mid May - rumblings about weird goings-on at Freenode appear online. Draft resignation letters are leaked.
+* 2021-05-19 - Andrew Lee asserts control. Former Freenode staffers formally resign, [Libera.chat] is opened
+* 2021-05-22: [seizure of channels mentioning Libera.chat begins]
+* 2021-05-26 - in an attempt to take over channels that had moved to Libera and set to invite-only, someone fat-fingers a script and takes over *all* channels mentioning Libera in its topic. Reportedly, over 700 channels are affected. [Here's my side of the story]. [See also]
+* 2021-05-26 - support channels on Freenode erupt in anger over the channel seizures. Someone "accidentally" blocks a CIDR /16 block
+* 2021-06-01 - [Fosshost enters partnership with Freenode]
+* 2021-06-09 - a server restart leaves service accounts (NickServ, ChanServ) wide open to be taken by regular users - thereby potentially exposing user passwords. The user who takes NickServ is swiftly promoted to staff.
+* 2021-06-10 - an attempt to k-line cloaked users who had chatted in `##moving-to-libera` backfired when the entire IRCcloud  was k-lined
+* 2021-06-11 - [Fosshost ends Freenode partnership]
+* 2021-06-11 - Wikipedia GC k-lined
+* 2021-06-11 - `#python` channel terminated, [group contact Ned Batchelder k-lined], 800 users kicked out 
+* 2021-06-12 - `#linux`, `#fsf` and `#gnu` channels are forcibly taken over by Freenode staff, and access lists rewritten. Topics changed. [My logs] (provided to Freenode boosters Techrights because they did not believe what had happened) 
+* 2021-06-13 - IRCcloud is banned *again*, on purpose this time. Staff let's us know this was the plan all along, as a paid service IRCcloud is "leaching" off Freenode
+* 2021-06-15 - Freenode moves to a new IRCd and drops all existing nick and channel registrations. [The shell of the old Freenode is no more]
+* 2021-06-16 - after a chaotic day with two incompatible networks, Lee pulls the plug on Freenode "classic". A deathly silence spreads across the field, only broken by raucous crows feasting upon the bodies of the slain.
+
+=> https://libera.chat Libera.chat
+=> https://www.devever.net/~hl/freenode_abuse seizure of channels mentioning Libera.chat begins
+=> gemini://gerikson.com/Death-of-a-channel.gmi Here's my side of the story
+=> https://www.devever.net/~hl/freenode_abuse2 See also
+=>  https://fosshost.org/news/freenode Fosshost enters partnership with Freenode
+=> https://fosshost.org/news/freenode-partnership-to-be-discontinued Fosshost ends Freenode partnership
+=> https://nedbatchelder.com/blog/202106/goodbye_freenode.html group contact Ned Batchelder k-lined
+=> http://techrights.org/wp-content/uploads/2021/06/fsf-channel-canceled.txt my logs
+=> https://www.devever.net/~hl/freenode_suicide The shell of the old Freenode is no more
+
+Today, I checked my existing connection to Freenode. I still had access to the old NickServ.
+
+```
+    07:39 -- MSG(nickserv): info gustaf
+    07:39 -- NickServ (NickServ@services.): Information on gustaf (account gustaf):
+    07:39 -- NickServ (NickServ@services.): Registered : Jul 28 22:07:55 2004 (16y 46w 3d ago)
+    07:39 -- NickServ (NickServ@services.): Last seen  : now
+    07:39 -- NickServ (NickServ@services.): Logins from: gustaf
+    07:39 -- NickServ (NickServ@services.): Nicks      : gustaf gustaf_ gerikson
+    07:39 -- NickServ (NickServ@services.): *** End of Info ***
+
+    07:47 -- │ NickServ (NickServ@services.): The account gustaf has been dropped.
+```
+
+### Conclusion
+
+What was all this about? In three weeks, an IRC network that's lasted for twenty years was flown into a mountain. Was that the plan all along?
+
+Or is it wrong to ascribe to malice or forethought that which can be more adequately explained by stupidity or drug-fueled mania?
+
+Anyway, watching Freenode implode is a bit like being on a ship that's foundering. Almost everyone makes it over to another safely, and we're standing at the railing, seeing the old ship slip beneath the waves. Some rats and trolls follow it down. It's a sad memory, but in the end, it was only a name.

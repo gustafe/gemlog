@@ -1,0 +1,14 @@
+Linux CNC
+meta-creation_date: 2020-09-10 06:39:29
+Craziness begins here
+=> https://lobste.rs/s/ajyeka/linuxcnc_2_8_0_released#c_7cccab
+
+replying to
+=> https://lobste.rs/s/ajyeka/linuxcnc_2_8_0_released#c_u6ku0d
+
+You are moving the goalposts. 
+
+I can't vouch for the linked project, but the forums seem active enough[1] , there's  YouTube content[2] (which is a decent barometer for "real-world" usage as opposed to the tiny tech bubble we are in), and the project itself exudes that air of completeness that characterizes mature open source projects.
+
+=> https://forum.linuxcnc.org/8-configuring-linuxcnc [1]
+=> https://www.youtube.com/watch?v=F4xHCwtaS3w [2]

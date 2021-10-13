@@ -1,0 +1,28 @@
+rm --
+meta-creation_date: 2019-03-10 09:27:30
+> One guy said his preferred method was to cd up and nuke the whole directory.
+
+Wow.
+
+The method I learned, and used when helping my coworker, was the `--` option to `rm`.
+
+Nowadays `rm` seems to detect  this and gives a help text:
+
+``` command line transcript
+    $ rm -testfile
+    rm: invalid option -- 't'
+    Try 'rm ./-testfile' to remove the file '-testfile'.
+    Try 'rm --help' for more information.
+```
+
+This option is included in this article
+=> https://kb.iu.edu/d/abao
+which is high up on the search result for "linux remove file starting with dash". 
+
+Then there's this "creative" solution: 
+
+> There are some characters that you cannot remove using any of the above methods, such as forward slashes, interpreted by Unix as directory separators. To remove a file with such meta-characters, you may have to FTP into the account containing the file from a separate account and enter the command:
+
+> `mdel`
+
+>You will be asked if you really wish to delete each file in the directory. Be sure to answer n (for no) for each file except the file containing the difficult character that you wish to delete.

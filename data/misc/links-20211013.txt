@@ -1,0 +1,4 @@
+Links 13 Oct 2021
+meta-creation_date: 2021-10-13 14:00:41
+=> https://lobste.rs/s/moflv5/freebsd_audio_from_perspective_happy#c_mqvroo a good historical overview of sound on Linux and FreeBSD
+=> https://publicdomainreview.org/essay/illustrations-of-madness-james-tilly-matthews-and-the-air-loom "Illustrations of Madness - James Tilly Matthews and the Air Loom"

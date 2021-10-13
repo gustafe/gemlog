@@ -1,0 +1,15 @@
+Forking HTML
+meta-creation_date: 2020-06-25 10:57:28
+=> https://lobste.rs/s/zztnen/why_forking_html_into_static_language
+
+> I'm sure everyone who thinks the modern Web has gone off the rails has a slightly different list of features that should be allowed
+
+This goes to the heart of the matter when I hear people pine for the "good old days" of the "90's web". Where did the modern Web go off the rails? Was it with the first e-commerce sites appeared (built using server-side CGI, and utilizing cookies to keep track of your shopping cart)? 
+
+Was it when Google figured out how to more precisely target ads for relevance?
+
+Was it when personal blogs metastized into marketing sites? 
+
+Was it when smallish forums got subsumed into wider social networks? 
+
+Everyone will have a different answer, and crucially, these are social issues that don't have a technical solutions. The biggest problem with privacy online is that PII is not seen as a liability (as "toxic waste") but as an incredibly lucrative asset when aggregated. Any change to that view has to be legislative - making the externalities of violating  privacy accountable to companies that work online. 
