@@ -1,7 +1,0 @@
-Reply to friendlysock
-meta-creation_date: 2021-07-09 06:17:51
-=> https://lobste.rs/s/dxtsxz/free_software_s_relevance_2021#c_yxnpy9
-
-> It’s a foolish errand trying to ensure the freedom of users who don’t care to take responsibility and an active interest in the tools they use.
-
-Richard M Stallman was an extremely intelligent man working with other extremely intelligent people at the world's premiere technical university when he was inspired to create what became Free Software. One might fault  him for naivete in believing that not only people in his position would benefit from Free Software, but at least his attitude is more positive than the *spleen* displayed above. 

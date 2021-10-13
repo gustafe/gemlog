@@ -1,4 +1,0 @@
-“Why doesn’t everyone just run their own infrastructure?” is a question that has never once been asked by a person who has had to admin their own mail server.
-meta-creation_date: 2021-10-10 06:56:16
-
-=> https://twitter.com/evacide/status/1430682553879433218?s=20 @evacide

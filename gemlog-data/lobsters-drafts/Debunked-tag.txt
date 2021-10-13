@@ -1,7 +1,0 @@
-New tag: “debunked”
-meta-creation_date: 2019-10-30 18:35:00
-To expand on my [previous comment in this thread](https://lobste.rs/s/t21xla/add_flag_reason_debunked_stories#c_sr5pyg), the system is working as designed. Both submissions held up as an example (1,2) have single digit net scores, and the comments are both informative and and contain links to the “correct” information.
-
-=> https://lobste.rs/s/t21xla/add_flag_reason_debunked_stories#c_sr5pyg [previous comment in this thread]
-=> https://lobste.rs/s/uakqjm/keybase_ios_has_backdoor 1
-=> https://lobste.rs/s/viorkw/number_theorist_fears_all_published_math 2

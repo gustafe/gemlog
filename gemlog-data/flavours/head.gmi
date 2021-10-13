@@ -1,3 +1,0 @@
-## The occasional geminer - an artisanal, handcrafted gemlog
-=> gemini://gerikson.com/gemlog/ ^ latest entries
-

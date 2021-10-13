@@ -1,5 +1,0 @@
-Cloudflare and 8chan
-meta-creation_date: 2019-10-24 09:35:27
-=> https://lobste.rs/s/jrglbd/cloudflare_considered_harmful#c_1y1guf
-
-If there was a site on the internet right now where anonymous commenters glorified the Yugoslav war(s) and extolled genocide, and egged each other on to perform more acts of violence against Serbs, Croats or Bosnians, and celebrated when those acts were posted on social media... I would be fine with it being shut down. 

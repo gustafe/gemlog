@@ -1,8 +1,0 @@
-Awk vs Perl
-meta-creation_date: 2021-09-15 08:49:51
-Perl is a superset of awk: see [a2p(1p)] (a core Perl script). 
-=> https://perl.developpez.com/documentations/en/5.20.0/a2p.html a2p(1p)
-
-You don't *need* to use external modules to use Perl scripts. The core has a bunch. OP elected to use a module for web log parsing because it was available, not because it was the only way.
-
-All successful languages rely on modules and libraries. Distributing these is an age-old problem. Perl has one solution, which may seem old fashioned, but at least for me, it's way easier to understand that Python's (or containers, for that matter). 
