@@ -2,7 +2,7 @@
 
 use strict;
 
-my $indexfile = '/home/gustaf/gemsite/gemlog-plugins/state/.entries_cache.index';
+my $indexfile = '/home/gustaf/gemsite/plugins/state/.entries_cache.index';
 
 # load the timestamps
 my %timestamps = ();
