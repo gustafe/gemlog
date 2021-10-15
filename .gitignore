@@ -5,3 +5,4 @@ gemlog-plugins/state/.entries_cache.others
 /err
 /gemlog-plugins/atomfeed.1
 gemlog-plugins/state/*
+plugins/state/.entries_cache.others
