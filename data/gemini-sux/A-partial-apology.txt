@@ -1,0 +1,36 @@
+Gemini and gemtext: a partial apology
+meta-creation_date: 2021-10-16 08:08:52
+I've now had a gemsite + gemlog up for a while and I'd like to thank the friendly people who have reached out and who have answered my questions in `#gemini@irc.tilde.chat`.
+
+It's been fun to set up blosxom for my gemlog - again. I've mostly been using amfora as a client but had fun with others too.
+=>gemini://gerikson.com/gemlog/misc/Gemlog-with-Blosxom.gmi blosxom
+=>gemini://gerikson.com/gemlog/gemini-sux/Clients-I-use.gmi clients
+
+It's time to revisit my criticism and address some of them.
+=>gemini://gerikson.com/gemlog/gemini-sux/Gemini-misaligned-incentives.gmi criticism
+
+### long lines aren't an issue
+
+My editor was misconfigured. I've corrected this.
+
+### no inline links still suck, but it's ok
+
+It's not gonna change. The lack of inline links will force a certain type of writing upon you if you want to use links. But maybe you don't want to. Or you'll use them in a different way.
+
+That's fine, gemspace != web. Getting mad at lack of inline links and finally accepting them is part of the ~~Stockholm syndrome~~acceptance.
+
+### italics and boldface are good, I am still mad
+
+You can't reproduce most prose works without having fugly underscores or asterisks all over. This is defacing our cultural heritage. Asking the user/client to download on the side and using an external reader is a cop-out.
+
+It's increasingly apparent to me that gemtext is well suited for one thing: writing about and discussing gemtext and Gemini. A bargain-basement Sapir-Worf theory, in other words.
+
+### the tensions between developers, users/authors and spec defenders remain
+
+Should a client interpret ANSI escape sequences (😱) to provide italics and bold in gemtext? "Sure why not", "NO!" and "how about we use Unicode to represent italics instead" are floated.
+
+Gemini is growing (cool!) which means the acculturation efforts will probably fail. You either die a pure, unsullied spec, or live long enough to become a bloated, wart-covered compromise. RemindMe! in two years where all this leads - if I can stick around that long.
+
+### so you're staying?
+
+Yeah I'll hang around. It's gonna be interesting to see where this all leads.
