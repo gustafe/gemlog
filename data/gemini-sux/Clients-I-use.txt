@@ -5,6 +5,8 @@ meta-updated: Updated on Sunday, 2021-10-10
 I use this on macOS but it is multi-platform.
 Pros:
 * nice design
+Cons:
+* seems to spin the fans a lot
 
 ### Geminaut - Windows
 Pros:
