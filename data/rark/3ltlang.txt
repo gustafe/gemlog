@@ -1,0 +1,5 @@
+Three letter languages
+meta-creation_date: 2021-10-19 18:32:52
+Nim - python that compiles to C
+Zig - C that compiles to C
+Elm - authoritarian JavaScript
