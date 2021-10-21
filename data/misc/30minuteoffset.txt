@@ -1,0 +1,19 @@
+30 minute offset
+meta-creation_date: 2021-10-20 11:52:00
+Some hacker tried to interest us in their new project, and was quickly torn to pieces^W^W^W corrected:
+=>https://thehtime.com/ hTime
+=>https://news.ycombinator.com/item?id=28928550 HN discussion
+
+This got me thinking, how large a percentage of the world's population can't use this tool?
+
+* Afghanistan 32.9M UTC+04:30
+* Central Australia (Northern Territory and South Australia)  246.5k + 1.771M UTC+09:30
+* Central Western Standard Time (Eucla, Australia) ~100 UTC+08:45
+* Chatham Islands 600, UTC+12:45
+* India  1.353B UTC+05:30
+* Iran 83.1M UTC+03:30
+* Myanmar 55.6M UTC+06:30
+* Nepal 28M UTC+05:45
+* Newfoundland and Labrador 520k  UTC-03:30 
+
+Total 1.556B people, which is around 20% of the world's population. 
