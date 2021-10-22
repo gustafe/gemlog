@@ -1,0 +1,7 @@
+Get a VPS
+meta-creation_date: 2021-10-21 12:20:34
+I have a $5/month VPS from Digital Ocean. I can heartily recommend it.
+
+I use mine to host my webserver and gemsite. I use it to host a screen session for IRC, Twitter and more. I run stuff like Advent of Code and Project Euler on it. It's great for random Unix^WGNULINUX hacking.
+
+It's the best money I've ever spent. 
