@@ -267,7 +267,9 @@ sub foot {
     my($pkg, $currentdir, $foot_ref) = @_;
     # Replace the placeholder with the feed-level <updated> element:
     $feed_utc_date = "<updated>$feed_utc_date</updated>";
-    $blosxom::output =~ s/$template_placeholder/$feed_utc_date/m; # 
+    $blosxom::output =~ s/$template_placeholder/$feed_utc_date/m;
+    # replace multiple nested <updated> tags with one - this is an issue for sublevel .atom files in static mode 
+    $blosxom::output =~ s/(<updated>)+(\d{4}.*Z)(<\/updated>)+/<updated>$2<\/updated>/g;
     return 1;
 }
 
