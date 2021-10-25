@@ -1,0 +1,30 @@
+Re: Kvetching about Bitcoin – a quantitative approach
+meta-creation_date: 2021-10-23 17:16:13
+=> gemini://isoraqathedh.pollux.casa/energy-competition.gmi
+
+> The central claim for the tweet then is that the spectacular usage of energy in bitcoin may possibly be eclipsed by the much more mundane but still frightening amount used by every Chrome tab open in the world, which by a rough order of magnitude estimation number some 1 × 10↑10 though any particular day and are also known to consume a lot of resources.
+
+[ discussion snipped ]
+
+> So what is the point here? It is to gain a sense of perspective, and in this case the best sense of perspective is to give an order-of-magnitude estimate. In this case what we want to know is whether or not bitcoin energy usage is unusually large compared to "ordinary" energy usage with computers, so if it turns out that mining cryptocurrencies are 10× or 30× or even 100× larger than other computations this analysis will show it. On the other hand, if it's roughly comparable in order of magnitude, like 0.3× or 1× or 3×, then maybe we need to reconsider the fervour against mining as even a unique devil in wastage.
+
+There is one central fact about Bitcoin[1] that many of its proponents evade:
+
+# IT IS DESIGNED TO WASTE ENERGY
+
+Any other human endeavor (including serving webpages) has energy usage as a *cost*. If Chrome uses enough energy to people's batteries to drain faster, or the app to be killed by the OS, less people will use it and Google will suffer.
+
+If an adtech company finds its razor-thin margins eaten up by high hosting costs (where energy for the computers and cooling are a significant cost) they will move to a provider with better watts-per-mips ratio.
+
+This pressure does not exist for Bitcoin. At the heart of its algorithm is an integer called "difficulty". It's set to be adjusted every 1,024 blocks so that the average time between blocks remains around 10 minutes.
+
+So if someone spends the money for a new chip that performs the proof-of-work algorithm more efficiently, they have around 14 days to recoup that cost before the difficulty adjusts upwards to compensate. 
+
+There is literally no way to design a process that performs the PoW algo more efficiently.[2]
+
+As an engineer, and as a human being, this disgusts me. All that wasted energy, all those  discarded mining rigs, all those shady deals with regional Chinese power producers, all to enable tax evasion, money laundering, ransomware payments and drug deals.
+
+Bitcoin and cryptocurrency in general is a parasite on the body economic. It can probably never be outlawed, but politicians, regulators and the public in general should work for elimination of its harmful wastage of scarce resources for the benefit of a few criminals, speculators and scofflaws.
+
+[1] and other proof of work blockchains.
+[2] Which is of course the point. PoW is a braindead bruteforce method to enforce consensus - but it works.
