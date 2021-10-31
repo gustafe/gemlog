@@ -14,7 +14,7 @@ my %descriptions = (
     'äran-och-hjältarnas-språk' => "Inlägg på ren svenska",
 		    'ebaums-world'              => "shit from the internit",
 		    rark=>'rants and rejvkommissionen',
-		    
+		    'srs-bzns'=>'serious business - everything here is worth your time',
 );
 
 sub start {
