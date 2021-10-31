@@ -1,0 +1,33 @@
+"Sweden didn't have lockdowns" and other COVID myths
+meta-creation_date: 2021-10-15 06:41:55
+During the height of the COVID-19 pandemic it was common to see Sweden singled out as "not implementing lockdowns". It was as if Sweden didn't take any action against the spread of the virus. This was used both as praise and condemnation, depending on the views of the person saying this.
+
+The truth is a bit more nuanced.
+
+First, "lockdown" is a slippery term, but I'll define it as a situation where a citizen is not allowed to leave their homes except to get groceries, medicine or other essential supplies, and the authorities have a legal way to enforce this. 
+
+Sweden lacked the legal framework in the beginning of the pandemic to enforce anything like this. The constitution adopted in 1971 explicitly avoided implementing a "state of emergency" clause because it was seen as a gateway to tyranny. Any emergency legislation would have to be implemented by the Riksdag.
+
+Sweden implemented a number of __voluntary__ measures to enforce social distancing:
+
+* everyone who could work from home was encouraged to do so
+* the normal 1-day sick day without pay (karensdag) was waived
+* the state took over the payment of the first fortnight of sick leave from employers
+
+(Sick pay is generally 80% of take-home pay up to a limit.)
+
+Restaurants, theaters and sports venues were regulated by public health laws that were implemented to restrict attendance. But these laws do not extend to other venues such as hairdressers or general stores.
+
+Controversially, this also applied to political demonstrations.
+
+The net result was a marked decrease in the number of people traveling to work, going out to lunch, etc.
+
+After a few months, legislation was passed that enabled the authorities to restrict opening hours in restaurants and bars.
+
+As of Oct 2021, all restrictions have been lifted.
+
+What all this didn't really help with was with Sweden's total deaths, which I personally believe had more to do with the shameful lack of preparation and protection of elderly people in care homes. But I do believe it helped limit the spread of the disease, thereby preventing health care resources from being overwhelmed.
+
+Did this help Swedish businesses? Its hard to say. Those that relied on people coming in like restaurants, hotels, travel in general suffered a lot. Hardware stores and places that could deliver probably saw increased business.
+
+Sweden's per capita death rate is about average compared to other EU countries (and lower than Belgium's which had famously strict lockdowns), but much higher compared to other Nordic countries like Denmark, Norway and Finland. This has been a source of great debate and is, I believe, attributable to different handling of the very old and infirm.

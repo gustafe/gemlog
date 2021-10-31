@@ -1,0 +1,15 @@
+GNU's not Unix, and that's the point
+meta-creation_date: 2021-10-31 15:26:08
+A weird inversion has taken place as Linux has become by far the most deployed kernel in the world: its success helped by using the GNU toolchain and software, it is now derided for not following "Unix standards".
+
+What are these standards? They are called POSIX, and was forced on the varied *commercial* Unix vendors to ensure a bare minimum of compatibility. None of the vendors had the clout to completely dominate the market, so they agreed on something that would theoretically enable a customer to move their expensive software to another system.
+
+POSIX defines Unix, which is still a legal trademark. The FSF's goal was not to create a Unix, it was to create a new system that built on the concepts of Unix but made it better.
+
+That's why some GNU utilities don't conform to the POSIX standards - they're not Unix. That's why autotools and friends are so fiendishly complex - they were designed to be used on multiple different architectures, many which didn't even ship with free C compilers. The point wasn't to make a bargain-basement, tick-the-boxes Unix - it was to make a new system, better than Unix, which could be used with the FSF kernel - the Hurd.
+
+Enter Linux. Linus Torvalds is my age, and at the time I didn't know that much about the nuances of free vs permissive licenses. Nor was RMS such a polarizing figure. 386BSD was in personal and legal trouble. The very legality of BSD-derived code was in question. Using the GNU tools, which were expressedly designed to avoid legal issues, was a no-brainer. It was a much different time than now, when "open source" is an accepted term, and the uncompromising stance of the FSF and its founder are seen as fringe, not mainstream, among developers.
+
+Linux has been succesful beyond anyone's wildest dreams in the 1990s - but it hasn't been smooth sailing. There was the Free Software / Open Source split, the SCO lawsuit, the growing pains of having a hobby project grow up *BIG*, but through it all GNU software kept chugging along.
+
+The people online now telling me snidely to use musl instead of glibc, or some hipster shell instead of `bash`, or who whine about how autotools has to support PA-RISC, or who seem to think POSIX is a goal to strive for rather than an accident of corporate history, are standing on the shoulders of giants. But instead of being grateful they're complaining the giants are coding it wrong. 

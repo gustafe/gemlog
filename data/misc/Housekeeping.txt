@@ -1,0 +1,10 @@
+Some housekeeping
+meta-creation_date: 2021-10-29 09:16:38
+I couldn't in all good conscience pollute the Antenna feed with my peurile GNU jokes so I've moved the stuff I want to share there to its own category.
+=> gemini://warmedal.se/~antenna/ Antenna
+=> /gemlog/ebaums-world/gnushit.gmi GNU is poop
+=> /gemlog/srs-bzns/ own category: srs-bzns
+
+You can still get all the stuff from the main feed, should you want.
+
+<mic drop>
