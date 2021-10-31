@@ -1,8 +1,0 @@
-Links 13 Oct 2021
-meta-creation_date: 2021-10-13 14:00:41
-=> https://lobste.rs/s/moflv5/freebsd_audio_from_perspective_happy#c_mqvroo a good historical overview of sound on Linux and FreeBSD
-=> https://publicdomainreview.org/essay/illustrations-of-madness-james-tilly-matthews-and-the-air-loom "Illustrations of Madness - James Tilly Matthews and the Air Loom"
-=> https://lobste.rs/s/d0hogq The problem with macros (Lobste.rs)
-=> https://news.ycombinator.com/item?id=28845971 The problem with macros (Hacker News)
-=> https://twitter.com/smdiehl/status/1445795667826208770 Lets finally talk about how NFTs are a giant scam.
-=> https://twitter.com/moxie/status/1448066579611234305 I created an NFT, but the image renders differently based on who's looking at it.
