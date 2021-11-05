@@ -22,7 +22,6 @@
 => https://gerikson.com/ main web presence
 => https://gerikson.com/blog blog
 
-
-──────────────────────────────────────────────────────────
+────────────────────────────────────────────
 Copyright © 2018 - 2021 Gustaf Erikson
 
