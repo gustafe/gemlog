@@ -1,0 +1,9 @@
+Industrial inch
+meta-creation_date: 2021-11-03 05:59:05
+How one Swedish dude unilaterally decided how long an inch was.
+
+> As a result of the definitions above, the U.S. inch was effectively defined as 25.4000508 mm (with a reference temperature of 68 degrees Fahrenheit) and the UK inch at 25.399977 mm (with a reference temperature of 62 degrees Fahrenheit). When Carl Edvard Johansson started manufacturing gauge blocks in inch sizes in 1912, Johansson's compromise was to manufacture gauge blocks with a nominal size of 25.4mm, with a reference temperature of 20 degrees Celsius, accurate to within a few parts per million of both official definitions. Because Johansson's blocks were so popular, his blocks became the de facto standard for manufacturers internationally, with other manufacturers of gauge blocks following Johansson's definition by producing blocks designed to be equivalent to his.
+
+> In 1930, the British Standards Institution adopted an inch of exactly 25.4 mm. The American Standards Association followed suit in 1933. By 1935, industry in 16 countries had adopted the "industrial inch" as it came to be known, effectively endorsing Johansson's pragmatic choice of conversion ratio.
+
+=> https://en.wikipedia.org/wiki/Inch#History

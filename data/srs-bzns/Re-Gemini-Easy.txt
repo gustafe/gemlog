@@ -1,0 +1,23 @@
+Re: Make Gemini Easy / Keep Gemini Difficult OR: Is Gatekeeping that bad, really?
+meta-creation_date: 2021-11-06 12:51:07
+=> gemini://tilde.team/~tomasino/journal/20211103-making-gemini-easy.gmi Tomasino: Making Gemini Easy
+=> gemini://marginalia.nu/log/35-keeping-gemini-difficult.gmi marginalia: Keeping Gemini Difficult
+* reymabel: RE: Keeping Gemini Difficult - removed by author
+=> gemini://gemini.ctrl-c.club/~stack/gemlog/2021-11-04-keep-gemini-amateur.gmi StackSmith: Keeping Gemini Amateur
+
+Quite an interesting flare-up.
+
+Requiring a user to host their own server *is* gatekeeping. But that doesn't have to be a bad thing as long as the community recognizes and accepts that.
+
+There's a huge disconnect between the fanatical insistence of a One True Simple spec that's easy to parse, and the implicit requirement that a publisher has to run their own damn server (or be comfortable with the Unix way of accessing remote file directories to upload/edit files). It's a bit like the gap in the bandpass filter I mentioned earlier, in that Gemini is a good fit for a developer wishing to dip their feet into the system but not someone who wants to go deeper and possibly enhance the protocol.
+
+=> gemini://gerikson.com/gemlog/gemini-sux/Gemini-misaligned-incentives.gmi earlier (section "Gemini culture prioritizes developers to a fault - but only up to a point")
+
+A common refrain on IRC and elsewhere is for the need for more content that's not just current geminauts writing about Gemini. But for that to happen there has to be some form of proselytizing. Making it easier for "the masses" (a term I despise for its implicit elitism) to set up their own capsules is probably a prerequisite.
+
+But if an interested newcomer, who might not be fluent in the late-90s implementation of a 1970s era computing system, is informed that without that specific knowledge they are "like a child", they may decide that the community is better off without them. 
+
+## Update
+=> gemini://skyjake.fi/gemlog/2021-11_re-making-gemini-easy.gmi Skyjake attempts a synthesis
+
+Worth reading as a good summary (and less snarky than the above).

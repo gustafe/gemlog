@@ -1,0 +1,35 @@
+Tony Parisi's Metaverse Manifesto
+meta-creation_date: 2021-11-05 16:59:19
+
+* Rule #1. There is only one Metaverse.
+* Rule #2: The Metaverse is for everyone.
+* Rule #3: Nobody controls the Metaverse.
+* Rule #4: The Metaverse is open.
+* Rule #5: The Metaverse is hardware-independent.
+* Rule #6: The Metaverse is a Network.
+* Rule #7: The Metaverse is the Internet.
+
+=> https://webvr.dev/posts/metaverse-missing-link/
+
+I don't know who the hell Tony Parisi is, but this is apparently the future.
+
+Here's the original link
+
+=> https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c
+
+It has to be read to believed - in fact I think it was written by GPT-3.
+
+---
+
+Herein are seven Rules that frame the Metaverse, by which we may direct our ongoing work and against which we can evaluate progress.
+
+Bear in mind while reading the Rules:
+
+* The Rules are axiomatic.
+* The Rules are hypotheses, distilled from decades of experience and insights from many practitioners.
+* The Rules are already generally embraced by many in principle. They may not be embraced by all. It doesn’t matter, for they describe an inevitability.
+* The Rules are not up for debate; history and practice will ultimately judge their validity.
+
+A Metaverse that does not follow the Rules (follow here in the sense of cohere with i.e. logically, versus act in accordance with i.e. prescriptively) is not the Metaverse, but something else.
+
+Humbly submitted, in service to the great work.

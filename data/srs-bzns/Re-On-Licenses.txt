@@ -1,0 +1,24 @@
+Re: On Licenses (and "It's Hard to Talk About Copyright")
+meta-creation_date: 2021-11-04 08:44:50
+
+=> gemini://oppen.digital/memex/20211101/ Öppen on being attacked for using a "non-standard" license for the Android client Ariane
+=> gemini://idiomdrottning.org/re-software-licenses Idiomdrottning replies
+=> gemini://warmedal.se/~bjorn/posts/2021-11-02-it-s-hard-to-talk-about-copyright.gmi ew0k: It's Hard to Talk About Copyright
+=> gemini://tilde.team/~tomasino/journal/20211102-freedom.gmi Tomasino: Freedom
+## Licenses
+
+Just as the old canard states: "the Internet interprets censorship as damage and routes around it", people who encounter software that has a license that doesn't appeal to them should just write their own damn software. This is explicitely encouraged in Gemini which has a spec so simple that writing a client should be trivial. So why harass the creator of a client if they choose another license? 
+
+Choosing a non-free license is a choice. It's saying you don't agree with the mainstream discourse (and yes, FLOSS is "mainstream" now).
+
+The libertarian stance of tech (including the FOSS subculture) is so deeply ingrained it's hard to debate against. Free software (as opposed to "open"/permissive) at least gives some promise of code changes to be fed back to the community, but even that's too much for the permissive crowd who are A-OK with gifting code to megacorps in exchange for "exposure" and GitHub stars.
+
+But even RMS is fine with ICE using GNU software. Why not? Freedom Zero baby!
+
+Discussing these things or problematizing them is fine. 
+
+## Copyright
+
+I copyright all my creative stuff. Not because I want to make money, but because of control. If some Nazis grab my pics to illustrate their posters I wanna be able to sue those bastards.
+
+The *current* copyright regime is too damn expansive, I agree with that. But the solution is reform, not abolition.
