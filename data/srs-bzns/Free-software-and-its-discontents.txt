@@ -1,0 +1,17 @@
+Free Software and its Discontents
+meta-creation_date: 2021-11-09 09:24:06
+Two pieces appeared on my radar yesterday
+
+=> https://www.paritybit.ca/blog/free-software-is-an-abject-failure Free Software is an Abject Failure
+
+There are two semirelated issues here. The first is the internal debate within the FLOSS movement between Free Software and Open Source. In short, Free Software imposes restrictions on software in order to compel source changes to be shared publicly. Open Source / permissive licenses make no such stipulation.
+
+Whether one is "freer" than the other boils down to whether you believe the rights of individuals or companies trumps the rights of the commons.
+
+I agree with the author that this is a bigger question than can be solved by licenses alone. The FLOSS movement has a role here in advocating for code developed with taxpayer funds (for example) should be FLOSS, but as mentioned the FSF is probably able to do this. 
+
+=> https://www.somebits.com/weblog/culture/generative-art-and-open-source.html Open source and generative art
+
+NFTards are the (current) scum of the earth. As soon as a cool project like generating old-school plots of fishes is announced, these parasites attempt to "make an NFT of it". In this case the community outrage was enough for these particular vermin to back down, but it's clear they were in the "legal" right, as the code was MIT-licensed. How to release something into the commons and simultaneously prevent planet-boiling techbros from appropriating it is an unsolved question.
+
+I honestly believe something other than FLOSS is needed to protect the commons of code and art. The sterile accusations about "neglecting freedom zero" are bouncing off a new generation that's seeing FLOSS used with impunity by BigCorps to make massive profits from mass surveillance. Having access to the code means zilch in these cases (and BigCorps shun GPL software anyway, there's plenty of permissively licensed code to use!), what's needed is legislation with teeth. 
