@@ -1,6 +1,6 @@
 Re: On Licenses (and "It's Hard to Talk About Copyright")
+meta-updated: Updated on Tuesday, 2021-11-09
 meta-creation_date: 2021-11-04 08:44:50
-
 => gemini://oppen.digital/memex/20211101/ Öppen on being attacked for using a "non-standard" license for the Android client Ariane
 => gemini://idiomdrottning.org/re-software-licenses Idiomdrottning replies
 => gemini://warmedal.se/~bjorn/posts/2021-11-02-it-s-hard-to-talk-about-copyright.gmi ew0k: It's Hard to Talk About Copyright
@@ -22,3 +22,8 @@ Discussing these things or problematizing them is fine.
 I copyright all my creative stuff. Not because I want to make money, but because of control. If some Nazis grab my pics to illustrate their posters I wanna be able to sue those bastards.
 
 The *current* copyright regime is too damn expansive, I agree with that. But the solution is reform, not abolition.
+
+## Update
+
+I might defend someone's right to choose a non-Free license, or to re-license their code, but it has to be done in accordance with any previous license. Taking the contribution of others made under the auspices of a FLOSS license and relicensing those contributions is Not Cool.
+
