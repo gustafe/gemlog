@@ -1,0 +1,34 @@
+Incorrect Quotation
+meta-creation_date: 2021-11-10 19:20:42
+
+RMS would like you to know that the infamous "GNU/Linux" copy-pasta attributed to him is incorrect.
+
+=> https://www.gnu.org/gnu/incorrect-quotation.html RMS
+
+Here it is, in its incorrect entirety:
+
+> I'd just like to interject for a moment. What you're referring to as Linux, is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX. Many computer users run a modified version of the GNU system every day, without realizing it. Through a peculiar turn of events, the version of GNU which is widely used today is often called “Linux,” and many of its users are not aware that it is basically the GNU system, developed by the GNU Project. There really is a Linux, and these people are using it, but it is just a part of the system they use.
+
+> Linux is the kernel: the program in the system that allocates the machine's resources to the other programs that you run. The kernel is an essential part of an operating system, but useless by itself; it can only function in the context of a complete operating system. Linux is normally used in combination with the GNU operating system: the whole system is basically GNU with Linux added, or GNU/Linux. All the so-called “Linux” distributions are really distributions of GNU/Linux.
+
+So what parts are incorrect?
+
+Here they are:
+
+> unto itself
+
+> another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX
+
+Incidentally I am glad for this because I wrote a previous rant which implied that GNU was *not* POSIX, then I saw this copy-pasta and was briefly worried I was incorrect. Turns out I wasn't!
+
+=> gemini://gerikson.com/gemlog/rark/GNUs-not-Unix.gmi previous rant
+
+What I find fascinating about this quote is that RMS takes full credit for the infamous opening sentences, which are generally all that most copy-pasters bother with. Impressive.
+
+Also this backhanded compliment:
+
+> The main error is that Linux is *not* strictly speaking part of the GNU system—whose kernel is GNU Hurd. The version with Linux, we call “GNU/Linux.” It is OK to call it “GNU” when you want to be really short, but it is better to call it “GNU/Linux” so as to give Torvalds some credit.
+
+"so as to give Torvalds some credit", smdh.
+
+I'd just like to interject for a moment: GNU/Hurd is never gonna be finished. Linux won. Get over it.

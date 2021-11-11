@@ -1,0 +1,15 @@
+Re: RE: Re: Considered Harmful
+meta-creation_date: 2021-11-11 12:28:16
+An informal practice has arisen, wherein on replies to other gemlog entries by writing ones own and titling it "RE: <original title>", and adding comments, or replies or whatnot.
+
+So out of the primordial soup of capsules, a primitive way of conversation arises.
+
+There are several issues with this approach though.
+
+First off, it's not clear through use of timestamps etc exactly what the replies reference. There's a certain split in audiences - on the one hand, the original author, on the other, the vast impersonal audience for whom one blogs.
+
+Second, Gemspace is small enough for its citizens to reach out "out of band" by email or IRC and provide input. This is confusing as its not always in ones best interest to reveal these channels , or one might not wish to attribute others opinions as theirs for various reasons.
+
+Third, one might write a RE: based on an item that is subsequently amended,  because that item might drop off the radar. This means that these amendments are not addressed in the reply, unless the reply author checks for changes for a while afterwards.
+
+All of this has led me to my Grand Declaration: in case of a suddenly flare-up of passions across Gemspace, I pledge to wait at least 24 hours before reading up and composing a snarky reply for your enjoyment. 
