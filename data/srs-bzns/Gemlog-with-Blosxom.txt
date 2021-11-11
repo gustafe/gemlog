@@ -155,7 +155,7 @@ Note the permalink construction is the same as in the story template.
 
 We're ready to start gemlogging!
 
-Fire up an editor and write a piece of gemtext in your `$datadir`. You can use subdirectories if you want, these will essentially be categories.
+Fire up an editor and write a piece of gemtext in a file ending with `.txt` in your `$datadir`. You can use subdirectories if you want, these will essentially be categories.
 
 Then run the following command:
 
