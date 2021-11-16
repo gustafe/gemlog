@@ -13,18 +13,20 @@
 => gemini://gerikson.com/gemlog/gemini-sux/A-partial-apology.gmi Gemini and gemtext: a partial apology (2021-10-16)
 => gemini://gerikson.com/gemlog/gemini-sux/Gemini-misaligned-incentives.gmi Gemini: the misaligned incentives, or: gemtext sucks (2021-09-28)
 => gemini://gerikson.com/gemlog/gemini-sux/Why-u-no-gemini.gmi Why Gemini is not my favorite internet protocol (2021-06-11)
+=> gemini://gerikson.com/gemlog/gemini-sux/ more from the category ‹gemini-sux› All that is wrong with Gemini, or your money back
 
 ## The Freenode Files
 => gemini://gerikson.com/gemlog/freenode-fuckery/Farrago-of-Freenode-fuckery.gmi A Farrago of Freenode Fuckery (2021-06-15)
 => gemini://gerikson.com/gemlog/freenode-fuckery/Death-of-a-channel.gmi Death of a channel (2021-06-05)
+=> gemini://gerikson.com/gemlog/freenode-fuckery more from the category ‹freenode-fuckery› Freenode implosion notes
 
 ## Other categories
-=> gemini://gerikson.com/gemlog/ebaums-world/ ebaums-world: shit from the internit
-=> gemini://gerikson.com/gemlog/lobsters-drafts/ lobsters-drafts: Sometimes I post to lobste.rs, sometimes I write angry rants that end up here but not there
-=> gemini://gerikson.com/gemlog/misc/ misc: What is says in the URL path
-=> gemini://gerikson.com/gemlog/rark/ rark: rants and rejvkommissionen
-=> gemini://gerikson.com/gemlog/srs-bzns/ srs-bzns: serious business - everything here is worth your time
-=> gemini://gerikson.com/gemlog/äran-och-hjältarnas-språk/ äran-och-hjältarnas-språk: Inlägg på ren svenska
+=> gemini://gerikson.com/gemlog/ebaums-world/ ‹ebaums-world› shit from the internit
+=> gemini://gerikson.com/gemlog/lobsters-drafts/ ‹lobsters-drafts› Sometimes I post to lobste.rs, sometimes I write angry rants that end up here but not there
+=> gemini://gerikson.com/gemlog/misc/ ‹misc› What is says in the URL path
+=> gemini://gerikson.com/gemlog/rark/ ‹rark› rants and rejvkommissionen
+=> gemini://gerikson.com/gemlog/srs-bzns/ ‹srs-bzns› serious business - everything here is worth your time
+=> gemini://gerikson.com/gemlog/äran-och-hjältarnas-språk/ ‹äran-och-hjältarnas-språk› Inlägg på ren svenska
 
 ## HTML
 => https://gerikson.com/ main web presence
