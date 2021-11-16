@@ -2,5 +2,5 @@
 
 => gemini://warmedal.se/~antenna/ Antenna
 => gemini://idiomdrottning.org/sub Idiomdrottning
-=> gemini://gemini.panda-roux.dev/log panda-roux's gemlog
+
 
