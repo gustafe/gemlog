@@ -1,5 +1,4 @@
 cgi-bin
+meta-updated: Updated on Tuesday, 2021-11-16
 meta-creation_date: 2021-10-27 17:53:46
-=> /cgi-bin/fr.cgi
-=> /cgi-bin/plusone.cgi
-=> /cgi-bin/hd.cgi
+Disabled for now.
