@@ -1,0 +1,35 @@
+My early years online
+meta-creation_date: 2021-11-15 08:53:29
+=> gemini://alexschroeder.ch/page/2021-11-14_The_early_years_on_the_net Alex writes about how they got online
+
+I've been "into" computers on and off since I was an early teen. I got a ZX-81 like so many others and spent some happy months copying listings from magazines. Probably broke my brain learning BASIC. We sometimes had "Byte" at home. 
+
+My dad has always been interested in document production (he wrote a *lot* of reports) so he got a Wang(!) 286-style word-processing PC with 2 floppy drives. I remember I got a strategy game for it ("Sun Tzu's Art of War"?) but it was too complex for me. I wrote a lot on it though.
+
+Around the same time I was peripherally involved in (paper) newsletters and zines. A dude I met in the last year of high school was way into "cyberpunk", had a t-shirt with the arms ripped off and a zine.
+
+In 1989 I started at the University of Lund. We had computing classes but I never got online. I didn't have a computer but I shelled out for a landline!
+
+After a couple of years that involve military service and some philosophy and Swedish literature I moved to Stockholm and started at KTH in 1992. I got an email address (f92-ger@nada.kth.se) and took programming[1] classes using Sun dickless^Wdiskless workstations. We used Emacs. A few of my classmates almost flunked out due to playing incessant MUD on the section's computer rooms' PS/2s. 
+
+I knew a bit about mailing lists and joined one about the artist Lloyd Cole but never got into it. Usenet was for (*hrmph*) "binaries". 
+
+In our class about information retrieval held by the university library I read about Gopher and something new from CERN called the "world wide web", which looked interesting but was way less structured than Gopher.
+
+At home I had a 386 (a gift from my parents) and a decently fast modem. I used it to contact the uni's First Class BBS system and to get terminal access.
+
+I got involved in the section newspaper and had great fun designing it in PageMaker (it was a monthly A5-sized zine).
+
+Around 1994 someone showed me that we had a web page - http://nada.kth.se/~f92-ger. I quickly learned how to write HTML. I wrote some SF reviews (probably inspired by P.M. Agapow's famous "Postviews" from Usenet) and I believe I got mentioned in "Cool Site of the Day" once.
+
+I remember at the time reading "Wired" and a lot of books about the internet life. Some people had their own domain! It sounded wildly extravagant.
+
+In 1998 I moved in with my future wife. I installed my first Linux on the 386 (Debian from floppies, without manpages to save space). We were both getting online more and more. I remember Telia trying to flog metered ISDN with the argument that downloading Netscape Navigator would be much faster (but it would cost as much as a metered local call). 
+
+I got my first domain name when I was 30, in 2000.
+
+I started blogging a few years after that. 
+
+---
+
+[1] Pascal and a small amount of FORTRAN. I knew Pascal since earlier. The year after us was part of a disastrous experiment in teaching general engineering students Scheme. The year after that got Java. Most of the coursework in numerical methods after year 1 was in MATLAB.
