@@ -1,0 +1,39 @@
+ennefftee
+meta-creation_date: 2021-11-19 12:37:30
+(Note: this was originally a draft document for a twitter thread but twitter sucks so I figured I'd post it here instead. Hence the rewordings of terms like 'NFT' to avoid getting noticed by pixelated monkey avatars.)
+
+## Who benefits from boosting this crap? 
+
+I find it fascinating that Ennefftee boosters have taken so many shits in so many punchbowls at so many parties it is now a net benefit to state your company will never use them. 
+
+The N\FT sales pitch is: we will ruin your community to the detriment of the environment and to the benefit of a wealthy few. Capitalism in its purest form.  
+
+The question is *why* so many internet firms (Twitter, Discord, REddit, Patreon) are enthusiastically jumping in, to the horror of their users. 
+
+There are big companies like  Disney, Burger King etc. that are minting tiffins. This is more understandable. They have giant marketing departments that are attuned to new trends in marketing. And ironically, they have pro IT departments that will ensure that the assets will actually stay up in the future, unlike the fly-by-night operations that just dump them on IPFS. At least if they get deleted from there they are still available in a giant torrent.
+
+=> https://thenftbay.org/ The NFT Bay 
+
+But when it comes to internet first companies, I believe it's a concerted effort from crapto boosters to get them onboard. Either by direct pitches to the bros in charge, or astroturfing social media campaigns.
+
+In a weird way I'm looking forward to Twitter, at considerable expense to themselves, integrating digital trading cards into people's profiles. Approximately 1 minute after launch there will be blacklists available where people with pixelmonkey avatars can be ... BLOCKchained.
+
+## The "art" sucks
+
+Look, I have a pretty liberal view on "art" in general. As far as I'm concerned, someone taking a pic of their kid, or singing karaoke, or writing this blog post, is engaged in creating art. "Art is dead", after all. So I'm not gonna go all gatekeeping in saying that Leonardo da Vinci was an artist, while the creator of Cryptopunks is not.
+
+Of course, that means that the vast majority of art is economically worthless. Related, just because it's hard to do doesn't mean the product is worth anything. Just ask someone who has problem passing stools.
+
+And the fact remains that most of the art "protected" by NFTs is objectively bad. The ideal NFT target is:
+
+* recognizable in a Twitter profile pic
+* easily varied to produce 10,000 "unique" pictures
+* referencing the ideals of the target: people who aspire to be idle rich assholes
+
+So creating an NFT concept is akin to being a copyrighter. Worthy occupation, but hardly on the scale of Michelangelo.
+
+*Edit* A great summary of the fundamental absurdity of this space:
+=> https://www.stephendiehl.com/blog/tinkerbell.html Stephen Diehl: The Tinkerbell Griftopia
+
+Here's a very long read about NFTs and crapto in general: 
+=> https://antsstyle.medium.com/why-nfts-are-bad-the-long-version-2c16dae145e2 Why NFTs are bad: the long version (warning: Medium link)
