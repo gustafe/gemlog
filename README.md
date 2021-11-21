@@ -4,5 +4,5 @@ Code and content for my Gemini site at
 
 ### Licensing
 
-* content under /gemlog-data is copyright/all rights reserved
+* content under /gemini-main and /data is copyright/all rights reserved
 * Blosxom code and plugins are licensed as per comments in the files
