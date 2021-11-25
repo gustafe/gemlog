@@ -1,1 +1,1 @@
-=> $url$path/$fn.gmi $yr-$mo_num-$da - $title
+=> $url$path/$fn.gmi $yr-$mo_num-$da - $title | ‹$fmtcat::fmtcat›
