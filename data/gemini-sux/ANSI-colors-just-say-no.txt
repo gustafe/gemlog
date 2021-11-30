@@ -1,0 +1,12 @@
+ANSI colors? Just say no
+meta-creation_date: 2021-11-29 13:12:23
+=> gemini://skyjake.fi/gemlog/2021-11_ansi-sgr.gmi Skyjake
+=> gemini://alexschroeder.ch/page/2021-11-26%20Colours%20in%20our%20texts Alex
+
+If you use ANSI markup in your gemtext to convey *semantic meaning*, your content will not generally be accessible from all clients. You might as well have a retro "This site best read in Netscape Navigator" banner.
+
+In practice I don't believe this is a huge deal. Some people will use the escapes to be "cool", or to signal to an in-group, or because they sincerely don't give a rat's ass. But there is a small risk that someone will use them because the "cool kids" do, and their carefully crafted meaning will be lost.
+
+I care a lot about this crap because I believe deeply that presenting content with semantic meaning can be both aesthetically pleasing[1] *and* accessible both for disabled readers, and machines. ANSI codes have only a tenuous connection to both camps. They're thinly supported, hard to work with, and smack of 90's juvenalia. If geminauts want to construct a BBS-flavored ghetto, so be it. Don't expect people to want to move in.
+
+[1] the lack of semantic styling is my biggest beef with gemtext
