@@ -1,0 +1,64 @@
+Advent of Code 2021
+meta-creation_date: 2021-12-01 06:06:06
+meta-updated: Updated on Monday, 2021-12-06
+=> https://gerikson.com/blog/comp/adventofcode/Advent-of-Code-2021.html This is a mirror of the main blog post
+=> https://gerikson.com/files/AoC2021 code listing
+=> https://www.adventofcode.com/ Advent of Code site
+
+## Day 01 - Sonar Sweep
+And we're off!
+
+I wonder if I got a bit too clever by half in this solution, as I've been looking over older solutions and can't even remember solving them. But that's how it goes I guess. 
+
+Puzzle rating: 3/5
+
+Score: 2
+
+## Day 02 - Dive!
+A "standard" Perlish solution (well, *my* kind of Perl, anyway): a dispatch table for the else/if "switch" construct, and a compact hash containing the state of the two solutions. 
+
+Puzzle rating: 3/5
+
+Score: 2
+
+## Day 03 - Binary Diagnostic
+I was honestly surprised that the canonical solution to this wasn't some esoteric bit-twiddling trick that reduces it to a one-liner. 
+
+In part 2, the naive solution is to loop through each "column" to determine which values to count so as to determine whether they are most frequent or not. I used an index for each "set" to keep track of the values already assigned to that set.
+
+Puzzle rating: 3/5
+
+Score: 2
+
+## Day 04 - Giant Squid
+Fairly straight-forward, although part 2 threw me for a loop. I didn't find a good way to determine the exit condition.
+
+Puzzle rating: 4/5
+
+Score: 2
+
+## Day 05 - Hydrothermal Venture
+Finally ok with my solution.
+
+The first attempt got the job done, but was super-scruffy. I realized after I'd finished that I could treat the direction as unit vectors and work from there, so I re-wrote my solution, but only in as so far as to use the direction as a "selector" to chose which subroutine to call to "paint" the map.
+
+After adding that to the repo, I finally remembered what I'd decided before the rewrite - to use the value of the vector in the paint routine itself.
+
+Note that just using `atan2` blindly to determine the direction will point the Y axis incorrectly. It's probably only an issue if you're printing the results, but I found that very helpful in debugging.
+
+If anything good can be said about this method is that I eliminated a lot of weirdness along the way. It wasn't all wasted effort.
+
+Puzzle rating: 3/5
+
+Score: 2
+
+## Day 06 - Lanternfish
+This threw me for a loop, because it worked perfectly for the test input but failed for my puzzle input. I whinged about it on IRC, mentioning I had a very old fish (41 days!). Turns out that was a mispaste and fixing that gave me the correct solution.
+
+I got part 2 40s later.
+
+Puzzle rating: 4/5, just because my solution was so smooooth
+
+Score: 2
+
+
