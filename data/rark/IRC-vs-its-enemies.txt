@@ -1,0 +1,17 @@
+IRC vs its enemies
+meta-creation_date: 2022-01-11 08:12:17
+
+Services like Slack, Discord and Teams have proven IRC right - group chat is an important collaboration tool. IRC apologists constantly complain that these services are winning despite IRC being better because it's "open" and "decentralized".
+
+If IRC is as good as people say, I would have expected a turnkey solution be available for organizations. This would include:
+
+* server/service with backup and management options
+* integration into access systems such as ADFS, Okta etc
+* client config to enable logging (mandatory in some businesses)
+* full-text searching
+
+Even for a nominal fee this could have been competitive, probably.
+
+But it never appeared. In fact, during the Freenode debacle, the FSF explicitely stated that they as an organization did not have the resources to be running a public IRC server.
+
+The fact is that the IRC ecosystem is immature, inconsistent, hard to manage, and not really business-friendly. And that's fine. But it also means that Slack et al solved a problem IRC wasn't interested in solving. 
