@@ -1,11 +1,11 @@
 Advent of Code 2021
 meta-creation_date: 2021-12-01 06:06:06
-meta-updated: Updated on Monday, 2021-12-06
+meta-updated: Updated on Tuesday, 2022-01-04
 => https://gerikson.com/blog/comp/adventofcode/Advent-of-Code-2021.html This is a mirror of the main blog post
 => https://gerikson.com/files/AoC2021 code listing
 => https://www.adventofcode.com/ Advent of Code site
 
-## Day 01 - Sonar Sweep
+### Day 01 - Sonar Sweep
 And we're off!
 
 I wonder if I got a bit too clever by half in this solution, as I've been looking over older solutions and can't even remember solving them. But that's how it goes I guess. 
@@ -14,14 +14,14 @@ Puzzle rating: 3/5
 
 Score: 2
 
-## Day 02 - Dive!
+### Day 02 - Dive!
 A "standard" Perlish solution (well, *my* kind of Perl, anyway): a dispatch table for the else/if "switch" construct, and a compact hash containing the state of the two solutions. 
 
 Puzzle rating: 3/5
 
 Score: 2
 
-## Day 03 - Binary Diagnostic
+### Day 03 - Binary Diagnostic
 I was honestly surprised that the canonical solution to this wasn't some esoteric bit-twiddling trick that reduces it to a one-liner. 
 
 In part 2, the naive solution is to loop through each "column" to determine which values to count so as to determine whether they are most frequent or not. I used an index for each "set" to keep track of the values already assigned to that set.
@@ -30,14 +30,14 @@ Puzzle rating: 3/5
 
 Score: 2
 
-## Day 04 - Giant Squid
+### Day 04 - Giant Squid
 Fairly straight-forward, although part 2 threw me for a loop. I didn't find a good way to determine the exit condition.
 
 Puzzle rating: 4/5
 
 Score: 2
 
-## Day 05 - Hydrothermal Venture
+### Day 05 - Hydrothermal Venture
 Finally ok with my solution.
 
 The first attempt got the job done, but was super-scruffy. I realized after I'd finished that I could treat the direction as unit vectors and work from there, so I re-wrote my solution, but only in as so far as to use the direction as a "selector" to chose which subroutine to call to "paint" the map.
@@ -52,13 +52,202 @@ Puzzle rating: 3/5
 
 Score: 2
 
-## Day 06 - Lanternfish
-This threw me for a loop, because it worked perfectly for the test input but failed for my puzzle input. I whinged about it on IRC, mentioning I had a very old fish (41 days!). Turns out that was a mispaste and fixing that gave me the correct solution.
+### Day 06 - Lanternfish
+I got off on a bad start with this puzzle, because it worked perfectly for the test input but failed for my puzzle input. I whinged about it on IRC, mentioning I had a very old fish (41 days!). Turns out that was a mispaste and fixing that gave me the correct solution.
 
-I got part 2 40s later.
+I got the answer to the second part 40 seconds later.
 
 Puzzle rating: 4/5, just because my solution was so smooooth
 
 Score: 2
+
+### Day 07 - The Treachery of Whales
+A quite fun one, and the first this year I managed to solve within 1hr of release. This might be TMI but I usually perform my morning ablutions and brew a pot of coffee before starting on a puzzle.
+
+Thinking about this led me to try the average (mean) of the values as the natural solution, but that gave incorrect values. So I just checked the fuel consumption for each and every possible end point, selecting the minimum value. This went plenty fast, as did part 2 once I didn't actually step through each distance calculating fuel as I went (hint: google "Gauss sum 100").
+
+When I had both solutions, I checked the various IRC chats and subreddits and discovered a raging debate on whether taking the median for part 1 and the average for part 2 always gave the correct result for every input. For me they did, so I just restricted by search space to the span of these values, plus a few extra integers for safety. This shaved a couple more milliseconds off the run time.
+
+Puzzle rating: 4/5, I like grade school math
+
+Score: 2
+
+### Day 08 - Seven Segment Search
+Today was a tough one - not the problem, per se, but commitments that made it hard to me to get to a solution that I was happy with.
+
+In the end I just went for brute-forcing every possible permutation, which is 7! or 5,040. The solution takes around 2s to run on my VPS.
+
+Puzzle rating: 3/5, bit fiddly
+
+Score: 2
+
+### Day 09 - Smoke Basin
+This was a straight-forward problem.
+
+I'm a bit surprised my BFS solution worked first time.
+
+Puzzle rating: 3/5
+
+Score: 2
+
+### Day 10 - Syntax Scoring
+Not the most elegant solution but it gets the job done.
+
+Puzzle rating: 3/5
+
+Score: 2
+
+### Day 11 - Dumbo Octopus
+Nice and easy, got 2 stars within one hour of downloading the input.
+
+I don't think my handling of some flags (`$has_changed`, `$has_synced`) is the most elegant. I'm pretty sure I'm doing an extra scan of the entire map every step to ensure everything has settled down. But I get a result within 1s (*just*) so let's do some weekend chores instead.
+
+I suspect tomorrow will be... more challenging.
+
+Puzzle rating: 3/5
+
+Score: 2
+
+### Day 12 - Passage Pathing
+I had to look up a solution for this, which was kind of embarrasing for such an early problem.
+
+Full credit in source.
+
+Puzzle rating: 3/5
+
+Score: __0__
+
+### Day 13 - Transparent Origami
+As usual, a breather after the weekend.
+
+I was tearing my hair out, running spot checks on my code, before I realized I had coded my output incorrectly.
+
+The rest of my issues was making it read the right way up...
+
+"Best" result so far, around rank 6,500 for part 1...
+
+Puzzle rating: 3/5
+
+Score: 2
+
+### Day 14 - Extended Polymerization
+A tough but fun problem.
+
+Part 1 only for now. 
+
+*Update 2021-12-15:* finished both parts.
+
+Puzzle rating: 4/5
+
+Score: 2
+
+### Day 15 - Chiton
+I think I finally figured out <strike>A\*</strike>Dijkstra's. With the help of a lot of cribbing from previous solutions (like 2018 day 22).
+
+I've only included part 2 because I can't be bothered bounding the box for part 1 so it doesn't choose a cheaper solution outside those limits.
+
+Puzzle rating: 4/5
+
+Score: 2
+
+
+### Day 16 - Packet Decoder
+Many people went "BERR" when they saw this: Binary Encoded Register Rodeo!
+
+I had a lot of problems with this, mostly because I managed to get the correct solution for part one a bit by accident, which didn't help solving part 2.
+
+After a day of tearing my hair trying to pass data between recursion levels I managed to solve it.
+
+Puzzle rating: 4/5 - tough, but fair
+
+Score: 2
+
+### Day 17 - Trick Shot
+Suspiciously easy.
+
+This year's last weekend is coming up.
+
+Brace yourselves.
+
+Puzzle rating: 3/5
+
+Score: 2
+
+### Day 18 - Snailfish
+*Completed 2021-12-31*
+
+Actually less complicated then at first glance. The main issue was figuring out how to implement the rules where "explode" had higher precedence than "split", but I managed that with a stack.
+
+Puzzle rating: 4/5
+
+Score: 2
+
+### Day 19 - Beacon Scanner
+*Completed 2021-12-28*
+
+A fun problem. I found a list of all possible rotation transforms and used them to generate the set of rotations to try, then just compared each and every one to find offsets. Runtime is around 15s.
+
+Puzzle rating: 4/5
+
+Score: 2
+
+### Day 20 - Trench Map
+Back on track after a tough weekend - which I had to skip due to travel.
+
+This was a fun problem once you figured out the trick.
+
+Puzzle rating: 4/5
+
+Score: 2
+
+### Day 21 - Dirac Dice
+A fun problem, but part 2 was too tough for me. I copped out and took a "free" star. Full credit in source!
+
+Puzzle rating: 4/5
+
+Score: __1__
+
+### Day 22 - Reactor Reboot
+Cubes - IN SPACE!!
+
+I only had time for part 1 on release day.
+
+Part 2 completed on 2021-01-04.
+
+Puzzle rating: 4/5
+
+Score: 2
+
+### Day 23 - Amphipod
+*Completed 2021-12-26*
+
+A fun problem but one I had to skip on release day due to preparations for Christmas.
+
+We've seen this sort of thing before, I solved it using Dijkstra's.
+
+In general, we have a start state and an end state, and we can generate new states based on the given rules. These intermediate states can be seen as nodes in a graph we're constructing on the fly. Applying the movement costs for each amphipod gives the total cost for moving form start to end, and Dijkstra's algorithm gives the lowest cost.
+
+Puzzle rating: 4/5
+
+Score: 2
+
+### Day 24 - Arithmetic Logic Unit
+I had to crib a solution (credit in source, of course) but I gave myself a point because it was Christmas Eve and that's when we get presents here, damnit.
+
+Puzzle rating: 4/5
+
+Score: __1__
+
+### Day 25 - Sea Cucumber
+And... it's a wrap.
+
+Not the most elegant solution but it's a star. I'll take it.
+
+Puzzle rating: 3/5
+
+Score: 2 (assuming I fix the missing stars!)
+
+### Day 31 - Template
+[Related to this entry](https://gerikson.com/blog/comp/adventofcode/Howto-AoC.html).
 
 
