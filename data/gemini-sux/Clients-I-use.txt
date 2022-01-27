@@ -1,7 +1,8 @@
 Clients I use
 meta-creation_date: 2021-10-07 05:40:54
-meta-updated: Updated on Sunday, 2021-10-10
+meta-updated: Updated on Tuesday, 2022-01-25
 ### Lagrange - macOS
+=> https://github.com/skyjake/lagrange
 I use this on macOS but it is multi-platform.
 Pros:
 * nice design
@@ -15,6 +16,7 @@ Cons:
 * no tabs
 
 ###  amfora
+=> https://github.com/makeworld-the-better-one/amfora
 Pros:
 * decent UI
 Cons:

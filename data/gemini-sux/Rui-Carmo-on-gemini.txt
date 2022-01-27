@@ -1,0 +1,13 @@
+Rui Carmo on gemini
+meta-creation_date: 2022-01-17 14:05:33
+=> https://taoofmac.com/space/blog/2022/01/17/0800
+
+> Overall, I think they’ve gone too far in simplifying the protocol.
+
+Rui has been blogging forever and knows what he's talking about. Most of the stuff is what I've been hung up on too, but this is a new wrinkle:
+
+> The protocol does not have the concept of byte ranges or pipelining (i.e., getting specific byte indexes out of the content or issuing multiple requests over the same socket connection), which makes it very slow (TCP handshake + TLS handshake for each page). OK, fine, most capsules are likely hosted in tiny machines and you don’t have inline media and hence no sub-requests, but…
+
+[...]
+
+> The absence of a Content-Length header, for instance, is just asking for trouble (Gemini’s sister protocol, Titan, hacks that into URLs), plus I’d like to have some pre-fetching for tackling slow networks, and the provision for zipped bundles of content as “books” isn’t exactly it.
