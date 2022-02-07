@@ -1,0 +1,58 @@
+Gemserv update woes - updated! 
+meta-creation_date: 2022-02-06 17:20:56
+meta-updated: Updated on Monday, 2022-02-07
+## Update
+
+Thanks to vladimyr (in chat), bacardi55 and others who have reached out to help me with this issue. 
+
+=> gemini://gmi.bacardi55.io/gemlog/2022/02/07/gemserv-update/ bacardi55: Fixing TLS issue with gemserv update
+
+My first issue was that I could not compile the new version. I'm pretty sure that has something to do with my `rustc` environment and nothing else. In any case, there's a precompiled binary available that works.
+
+The second issue was more serious. It's about the inability for the latest version of gemserv to accept the certificates that the previous version had no problems with.  See below for details.
+
+As detailed by bacardi55, they had success by using a tool by solderpunk to generate the certs - at the "cost" of installing new ones.
+
+Before I read that post, however, I decided to switch servers entirely. I have installed Molly Brown and after some fiddling been able to get it running under systemd just like gemserv - including using my old certs.
+
+I've found the experience compiling rust projects less than stellar so I'll probably stick with Golang projects in the future.
+
+### Takeaways
+
+I don't want to dump on `gemserv` here, it's a fine project and I'm really happy it was updated to address a security issue. The problem, as I see it, is that there's really no "standard" way to generate server certificates. I generated mine using this invocation, based on an install instruction targeting `agate`. They happened to work with `gemserv`, but maybe that was inadvertent. But some searching around shows that the invocation I use is perfectly fine, and that even supplying a Common Name (CN) is redundant. 
+
+```
+openssl req -new -subj "/CN=gerikson.com" -x509 -newkey ec -pkeyopt ec_paramgen_curve:prime256v1 -days 365 -nodes -out cert.pem -keyout key.pem
+```
+
+I can see that solderpunk's `gemserv` tool also generated Subject Alternate Names, which might be what's needed for `gemserv`. Worth thinking about. 
+
+## Original post
+
+I use `gemserv` as my gemini server, mostly because I got an error with agate that I couldn't bother to debug (see below). It's worked great, but unfortunately the version I'm running has a directory traversal exploit, so updating it highly recommended.
+
+I could compile the previous version just fine, but this version choked on a cargo dependency that I couldn't get past. I downloaded a precompiled binary and that failed with the very certs I've been using since I set up my server:
+
+```
+gemini :~/bin$ ./gemserv-v0.6.4 ../config.toml
+The host/port keys are depricated in favor of interface and may be removed in the future.
+2022-02-06 11:08:52,007 INFO [gemserv] Serving 1 vhosts
+thread 'main' panicked at 'error loading key: General("The server certificate is not valid for the given name")', src/lib/tls.rs:55:14
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+```
+
+(and before you ask, enabling the $RUST_BACKTRACE env doesn't give much more info.)
+
+For those that care, this is the issue I get with `agate`:
+
+```
+gemini :~/bin$ ./agate --content /home/gemini/gemini/  --certs /home/gemini/certs --hostname gerikson.com --lang en-US 
+[2022-02-06T16:18:17Z INFO  agate] Started listener on [::]:1965
+thread 'tokio-runtime-worker' panicked at 'Failed to listen on 0.0.0.0:1965: Address already in use (os error 98)', src/main.rs:54:45
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+Aborted (core dumped)
+```
+
+I have NFC what's listening on port 1965, unless agate can't handle running as anything other than root. FWIW gemserv doesn't give this error. 
+
+I dunno, I'm kinda sick of all this. If I don't find a solution I'll just take this gemsite offline.

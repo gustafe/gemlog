@@ -1,0 +1,24 @@
+E m p h a s i s
+meta-creation_date: 2022-02-04 21:11:46
+meta-updated: Updated on Saturday, 2022-02-05
+Inspired by a comment by `kensanata` in #gemini@tilde.chat, I want to try to use Sperrsatz/spärrning for emphasis:
+
+=> https://en.wikipedia.org/wiki/Emphasis_(typography)#Letter-spacing
+
+I raised the issue of words being split in the middle, but there's a plethora of unicode spaces, and U+202F NARROW NO-BREAK SPACE seems to be the best suited for this.
+
+So now we can really e m p h a s i z e words again!
+
+### Update 2022-02-05
+
+Re-reading the IRC conversation, I've realized that this entire thing was mine, `kensanata` is blameless!
+
+Idiomdrottning very kindly calls this a "proposal" which gives me way too much credit. They also warn that it won't always be handled well by screenreaders.
+
+=> gemini://idiomdrottning.org/re-sperrsatz-emphasis Against Faux Sperrsatz Emphasis
+
+(As an aside, there's nothing "faux" about this. From what I can glean, this is exactly what Sperrsatz was, because Fraktur typefaces didn't have italics or bold. The non-breaking space ensure the word won't be broken in the middle, and the narrow width is also correct.)
+
+But, they are correct in saying that Sperrsatz is a terrible way to signal emphasis. This post is a bit of a joke, poking fun at the almost utter lack of semantic signaling in gemtext. No-one would be happier than me if the community could agree that words within asterisks would be equivalent to the <em> tag in HTML, while words within underscores would be <strong>, and we could rely on clients (and screenreaders!) to interpret them as such.
+
+Perhaps this will come in time. 

@@ -1,0 +1,10 @@
+GDPR, privacy, ad-blocking
+meta-creation_date: 2022-02-04 07:45:31
+=> https://lobste.rs/s/wnkloa/gdpr_enforcer_rules_iab_europe_s_consent#c_ynvg5s Inspired by this comment thread
+
+I'm pretty convinced the reason Google hasn't come down hard on adblocking extensions to Chrome (despite it hurting their bottom line) is that allowing them gives them plausible cover from any sort of serious user data protection legislation. The inherent libertarian tendencies of the internet takes care of the rest. "Fuck you, got mine" is its mantra.
+
+Expecting online privacy exploitation to be solved by installing browser extensions that are allowed on the sufferance of the world's largest advertizer is the height of atomistic individualism. 
+
+The GDPR is far from perfect. But it's still distressing to see "privacy activists" in the USA dismiss it because of their built-in aversion to any sort of collective action directed by a state. 
+
