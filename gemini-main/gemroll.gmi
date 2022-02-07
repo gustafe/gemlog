@@ -2,5 +2,5 @@
 
 => gemini://warmedal.se/~antenna/ Antenna
 => gemini://idiomdrottning.org/sub Idiomdrottning
-
+=> gemini://idiomdrottning.org/nyhetsgrej Nyhetsgrej (TextTV i Gemini)
 
