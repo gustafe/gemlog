@@ -28,6 +28,18 @@
 => gemini://gerikson.com/gemlog/srs-bzns/ ‹srs-bzns› serious business - everything here is worth your time
 => gemini://gerikson.com/gemlog/äran-och-hjältarnas-språk/ ‹äran-och-hjältarnas-språk› Inlägg på ren svenska
 
+## $ whoami
+
+Middle-aged software developer. Cis-het trying hard to be an ally. He/him. Interested in web publishing. 
+
+### kontakt
+
+* “Re-” post on Antenna
+* I am subscribed to the `comp.infosystems.gemini` newsgroup
+* IRC: `gerikson` on libera.chat | tilde.chat
+* Twitter: https://twitter.com/gerikson
+* Email gerikson @ that big Google email thing 
+
 ## HTML
 => https://gerikson.com/ main web presence
 => https://gerikson.com/blog blog

@@ -13,12 +13,14 @@ So now we can really e m p h a s i z e words again!
 
 Re-reading the IRC conversation, I've realized that this entire thing was mine, `kensanata` is blameless!
 
-Idiomdrottning very kindly calls this a "proposal" which gives me way too much credit. They also warn that it won't always be handled well by screenreaders.
+Idiomdrottning very kindly calls this a "proposal" which gives me way too much credit. She also warns that it won't always be handled well by screenreaders.
 
 => gemini://idiomdrottning.org/re-sperrsatz-emphasis Against Faux Sperrsatz Emphasis
 
 (As an aside, there's nothing "faux" about this. From what I can glean, this is exactly what Sperrsatz was, because Fraktur typefaces didn't have italics or bold. The non-breaking space ensure the word won't be broken in the middle, and the narrow width is also correct.)
 
-But, they are correct in saying that Sperrsatz is a terrible way to signal emphasis. This post is a bit of a joke, poking fun at the almost utter lack of semantic signaling in gemtext. No-one would be happier than me if the community could agree that words within asterisks would be equivalent to the <em> tag in HTML, while words within underscores would be <strong>, and we could rely on clients (and screenreaders!) to interpret them as such.
+*Update* Idiomdrottning means it's "faux" because it's not built-in as formatting, like in TeX and other publishing systems. Fair enough. I agree that manually adding Unicode spaces is a pain.
+
+But, she is correct in saying that Sperrsatz is a terrible way to signal emphasis. This post is a bit of a joke, poking fun at the almost utter lack of semantic signaling in gemtext. No-one would be happier than me if the community could agree that words within asterisks would be equivalent to the <em> tag in HTML, while words within underscores would be <strong>, and we could rely on clients (and screenreaders!) to interpret them as such.
 
 Perhaps this will come in time. 
