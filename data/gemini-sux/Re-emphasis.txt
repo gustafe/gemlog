@@ -1,0 +1,67 @@
+Re: Emphasis - followup and summarizing my view
+meta-creation_date: 2022-02-09 12:33:08
+OK so this kinda blew up.
+=> gemini://gerikson.com/gemlog/gemini-sux/e-m-p-h-a-s-i-s.gmi my post cheekily arguing for Sperrsatz
+
+There's been some chatter about this in the newsgroup, subscribe and like! 
+
+I found this "thread" by Pen:
+=> gemini://envs.net/~pen/log/repetition.gmi Emphasis repetition 
+=> gemini://envs.net/~pen/log/emphasis.gmi Emphasis: rewriting the sentence is preferable ⤴
+=> gemini://envs.net/~pen/gemini/emphasis.gmi 2020-12-02 Gemini emphasis ⤴
+
+Note that in the 3rd entry Sperrsatz is proposed, with U+202F as a separator between letters. So great minds think alike. 
+
+And today, Idiomdrotting writes:
+=> gemini://idiomdrottning.org/emphasis-in-gemtext Emphasis in Gemtext 
+
+More on that below.
+
+## where am I on all this
+
+I've been missing emphasis (*italics*, __bold__ and `monospace`) since day 1 on Gemini. I still think their exclusion is a cop-out.
+
+Quoting the FAQ
+=> gemini://gemini.circumlunar.space/docs/faq.gmi 2.9 Why didn't you just use Markdown instead of defining text/gemini?
+
+> * There are actually many subtly different and incompatible variants of Markdown in existence, so unlike TLS all the different libraries are not guaranteed to behave similarly.
+
+CommonMark exists and has a test suite etc. While not a finished standard, at least it's trying to create one.
+
+A strict subset of Markdown (for example, eliminating the 2 line header format, disallowing images and tables, and standardizing on asterisk for italics and double underscore for bold) would have been eminently feasible imho.
+
+Also section 2.10
+
+> Because text/gemini is an entirely new format defined from scratch for Gemini, client authors will typically need to write their own code to parse and render the format from scratch, without being able to rely on a pre-existing, well-tested library implementation. Therefore, it is important that the format is extremely simple to handle correctly.
+
+This ties into my old observation that Gemini is optimized for the drive-by developer who doesn't want to stay and expand in the protocol. But that's not really relevant
+
+__BECAUSE__ I am not proposing changing the spec. That way madness and a very angry Drew DeVault lies.
+
+I propose client implementers formally or informally agree to parse Markdown-like text styling syntax, if the user so wishes.
+
+Perhaps a new extended mime-type is needed, I dunno.
+
+### rewrite your prose to eliminate the need for emphasis
+
+Both Pen and Idiomdrotting propose this. Pen quotes the Modern Language Association, discouraging the use of italics in *academic texts*[1]
+=> https://style.mla.org/italics-for-emphasis/
+
+The problem is that from the very page there's a link on how to cite works, which recommends italics for titles. Oops.
+=> https://style.mla.org/works-cited/citations-by-format/
+
+Most of my blog output is book reviews, I'd like to use italics to reference books, but that's not possible in gemtext.
+
+It's not all about *drama* and __SHOUTING__. Emphasis has legitimate use cases in (English) prose - if nothing else for correctly quoting other works. 
+
+## Summing up
+
+Clients should take the lead here.
+
+The protocol can be left alone. 
+
+This has been fun, but I'll drop my engagement about this - for now. 
+
+--- 
+
+[1] I don't recall Gemini being restricted to academic texts but that's neither here nor there. 
