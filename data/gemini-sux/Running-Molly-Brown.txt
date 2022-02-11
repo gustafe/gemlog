@@ -1,0 +1,27 @@
+Friendship ended with gemserv, now Molly Brown is my best friend
+meta-creation_date: 2022-02-10 21:12:51
+A couple of days ago I learned that the server I used for my gemsite had been updated to address a serious security issues.
+
+Despite my best efforts and help from others, I did not manage to update to the latest version.
+
+=> gemini://gerikson.com/gemlog/gemini-sux/gemserv-update-woes.gmi Read more here
+
+I decided to use another server: Molly Brown. Why I had not chosen it before escapes me. There were lots of servers to choose from.
+
+I followed the instructions here:
+
+=> https://tildegit.org/solderpunk/molly-brown#installation install Molly Brown
+
+As I already had a user and home dir for gemini, I modified the config file for my setup, plonked the binary in the right place, gave it the correct permissions and started it to check for errors.
+
+You can either log messages and errors to a file, or to STDOUT: set the target to '-' in that case.
+
+A weird detail is that normal log messages are in the format YYYY-MM-DD, while errors are in the format YYYY/MM/DD. Maybe this is for filtering purposes.
+
+I then modified the included systemd unit file to point to my location, enabled it and started it.
+
+M-B had no problem dealing with the certs I'd already installed, which was a sticking point for gemserv. 
+
+### CGI
+
+I dabbled in CGI earlier but got spooked by not being 100% sure my server was secure. I feel slightly better about M-B so might enable it again. 

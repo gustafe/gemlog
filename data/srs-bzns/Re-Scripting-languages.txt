@@ -1,0 +1,30 @@
+Re: Scripting languages
+meta-creation_date: 2022-02-11 14:04:49
+=> gemini://blog.schmidhuberj.de/2022/02/10/scripting-languages/ Schmiddi's Blog: Scripting Languages
+
+Disclaimer: I use and love Perl but I have not (yet) started using Raku (née Perl6).
+
+I think it's useful to think of Raku as the part of the Perl community that embraced Perl's "playful", Lisp-like nature, as opposed to the part that appreciated it for being a better shell. Depending on what your goals are, Raku might be a bit too unstructured.
+
+I'm saying that because Perl has always been a language  that doesn't impose much order on how you code. Perl programmers embrace TMTOWTDI[1] with abandon, and unlike Pythonistas who fret endlessly about "idiomatic Python", doing your own thing as a Perl coder is almost a badge of honor. This is Perl's great strength - and weakness.
+
+These statements each increase the variable `$y` by one if `$x` is zero.
+
+```Perl code examples
+# straight if
+if ( $x == 0 ) { $y++ }
+# reversed if
+$y++ if $x == 0;
+# unless
+$y++ unless $x != 0;
+# regex!
+$y++ if $x =~ m/0/;
+```
+
+The first 2 are functionally identical and Perl doesn't care what you choose. The `unless` example is silly here but is nice if you need a negated if. And regex is deep in Perl's DNA - but please, use them with moderation.
+
+I believe Raku has the makings of a really nice language, that might even displace Perl from its (currently quite small) niche. But it's also clear to me that for bigger teams, bondage-and-discipline languages like Python have the edge.
+
+--
+
+[1] There's More Than One Way To Do It!
