@@ -1,5 +1,9 @@
 Re: Emphasis - followup and summarizing my view
 meta-creation_date: 2022-02-09 12:33:08
+## Update
+This is a refreshing take
+=> gemini://gemini.ctrl-c.club/~stack/gemlog/2022-02-09.urlencoding.gmi Gemini Spec compliance - my anarchist take 
+
 OK so this kinda blew up.
 => gemini://gerikson.com/gemlog/gemini-sux/e-m-p-h-a-s-i-s.gmi my post cheekily arguing for Sperrsatz
 
@@ -7,8 +11,8 @@ There's been some chatter about this in the newsgroup, subscribe and like!
 
 I found this "thread" by Pen:
 => gemini://envs.net/~pen/log/repetition.gmi Emphasis repetition 
-=> gemini://envs.net/~pen/log/emphasis.gmi Emphasis: rewriting the sentence is preferable ⤴
-=> gemini://envs.net/~pen/gemini/emphasis.gmi 2020-12-02 Gemini emphasis ⤴
+=> gemini://envs.net/~pen/log/emphasis.gmi ⤴ Emphasis: rewriting the sentence is preferable 
+=> gemini://envs.net/~pen/gemini/emphasis.gmi ⤴ 2020-12-02 Gemini emphasis 
 
 Note that in the 3rd entry Sperrsatz is proposed, with U+202F as a separator between letters. So great minds think alike. 
 
