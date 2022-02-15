@@ -1,0 +1,67 @@
+TLS and its discontents
+meta-creation_date: 2022-02-15 07:19:29
+
+=> gemini://gemini.ctrl-c.club/~stack/gemlog/2022-02-13.notls.gmi Stacksmith: A Call for a Gemini Without TLS
+
+The TLS requirement of Gemini never really grabbed me. Solderpunk laid out the reason in this gopher post:
+
+=> gopher://zaibatsu.circumlunar.space/0/~solderpunk/phlog/why-gopher-needs-crypto.txt Why gopher needs crypto
+
+Encryption schemes like TLS aim to provide three things: authentication, integrety, and (transmission) confidentiality. Gemini fails to provide two of them. 
+
+The problems with TLS on Gemini can be summarized as follows:
+
+### External dependencies on a 3rd party library
+
+This makes server development fragile, and complicates it to little gain.
+
+### Harder for older hardware to use gemini
+
+On the one hand - super simple protocol that's easy to parse!
+
+On the other - you need to be able to handle the latest crypto.
+
+### TOFU stinks - authentication and integrity 
+
+To avoid the complexities of PKI (via Certificate Authorities), Gemini is ok with TOFU (Trust On First Use), which basically means the client will more or less blindly accept whatever cert comes down the pipe. This can crucially be a man-in-the-middle cert. This means that potentially nothing on a gemsite can be trusted to not be manipulated by the MiTM, including any metadata about the certificate.
+
+Not that this really matters, because most clients don't show any metadata anyway.
+
+To fully trust a server cert under TOFU, the user must
+
+* be able to view the metadata
+* be able to compare that to a known source - which is impossible to provide on the gemsite itself. The "best" solution is a *HTTPS* site known to be under the control of the gemsite operator.
+
+In addition, many gemsite operators (re-)use certs meant for HTTPS, often provided via Let's Encrypt (see below). These certs have a short validity, so if you visit many gemsites, be prepared to see the popup about the cert being changed many times. Is it due to cert rollover or a hostile MiTM? Who knows?
+
+The same goes for stuff like PGP keys, and potentially politically sensitive speech, which was a big selling point in Solderpunk's original proposal to add encryption to Gopher.
+
+### An entry into the pro-column: encrypted transit (confidentiality)
+
+Sao what's left? ISPs etc. cannot directly read Gemini traffic. But they can see that Alice's IP has visited Bob's IP, using a port other than 443. If gemini ever becomes big, the use of gemini on port 1965 itself is a decent fingerprint. Expect ads appearing in your browsing advertising gemini-adjacent products, like ortholinear keyboards and off-grid cabin living.
+
+### Great DANE to the rescue?
+
+=> gemini://tilde.team/~tomasino/journal/20220214-dane-and-tls.gmi Tomasino: DANE and TLS
+
+DANE does seem to be a nice end-run around the need for CA certs. But they are much harder to set up compared to generating a self-signed cert.
+
+## An aside: "Let's Encrypt!" - but why?!
+
+Let's Encrypt is an impressive project. They've managed to streamline the issuence of TLS certs for websites, they're running a "real" CA, and they're doing it at no cost to the user. Behind LE is EFF and other boosters of the 90s Net vision of pervasive encryption. If everyone encrypts traffic, it doesn't stand out as much, and we are all safer (for some libertarian values of safer). And of course, mainstream browsers are slowly ratcheting up the pressure by showing scary warning triangles for plain http:// sites.
+
+I resisted getting a CA cert for my website for a long time because I only serve read-only content. The main selling point for such sites from LE was
+
+* authentication - the website is identified through the cert
+* integrity - the contents of the website cannot be altered in transit.
+
+Confidentiality sounds cool but if you're not serving sensitive data it's not that big a deal.
+
+Gemini is largely read-only and specifically designed to be that way. The fact that TOFU negates authentication and integrity makes it even more ironic that it was saddled with TLS. 
+
+## A missed opportunity?
+
+In retrospect, it would have been nice for Gemini to be usable without TLS, and TLS to either use CA certs or DANE (ideally DANE, to kickstart that a bit). But right now, we're stuck with it.
+
+I don't see it as a reason not to use  Gemini, but I will continue to point out the inherent uselessness of it going forward.
+
