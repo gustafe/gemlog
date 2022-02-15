@@ -1,3 +1,5 @@
 
 Copyright © 2018 - 2022 Gustaf Erikson
 => gemini://gerikson.com/ Main page for this gemsite
+
+[This Page Viewed Best In Any Gemini Client] 
