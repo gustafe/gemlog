@@ -1,12 +1,14 @@
 HOME=/home/gustaf/gemsite
 BIN=/home/gustaf/bin
 GEM=/home/gemini/gemini
+WWW=/home/gustaf/public_html
 CGI=$(HOME)/cgi-bin
 
 .PHONY: main-page
-main-page: $(HOME)/gemini-main/*.gmi $(HOME)/gemini-main/favicon.txt 
+main-page: $(HOME)/gemini-main/*.gmi $(HOME)/gemini-main/*.txt
 	cp $(HOME)/gemini-main/*.gmi $(GEM)/
-	cp $(HOME)/gemini-main/favicon.txt $(GEM)/
+	cp $(HOME)/gemini-main/*.txt $(GEM)/
+	cp $(HOME)/gemini-main/fingerprint.txt $(WWW)/gemcert-fingerprint.txt
 
 .PHONY: blog
 blog:

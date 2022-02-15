@@ -1,0 +1,10 @@
+This is the fingerprint of the certificate for the gemsite gemini://gerikson.com
+
+If you are viewing this on gemini at gemini://gerikson.com/fingerprint.txt, please note that due to the design of TLS on gemini this content is not guaranteed to be valid. If you are unsure, please check this page at https://gerikson.com/gemcert-fingerprint.txt.
+
+$ openssl x509 -in cert.pem -noout -fingerprint -sha256 -enddate
+SHA256 Fingerprint=DD:81:1F:6F:11:68:3E:B4:90:BC:74:CE:5C:CC:C6:AF:43:A2:EB:CF:5E:73:9E:AC:34:DC:63:63:B1:5B:30:BE
+notAfter=Sep 23 08:12:54 2022 GMT
+
+[This page generated 2022-02-15T07:31:00Z]
+
