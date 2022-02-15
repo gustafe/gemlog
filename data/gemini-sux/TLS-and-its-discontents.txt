@@ -38,7 +38,7 @@ The same goes for stuff like PGP keys, and potentially politically sensitive spe
 
 ### An entry into the pro-column: encrypted transit (confidentiality)
 
-Sao what's left? ISPs etc. cannot directly read Gemini traffic. But they can see that Alice's IP has visited Bob's IP, using a port other than 443. If gemini ever becomes big, the use of gemini on port 1965 itself is a decent fingerprint. Expect ads appearing in your browsing advertising gemini-adjacent products, like ortholinear keyboards and off-grid cabin living.
+So what's left? ISPs etc. cannot directly read Gemini traffic. But they can see that Alice's IP has visited Bob's IP, using a port other than 443. If gemini ever becomes big, the use of gemini on port 1965 itself is a decent fingerprint. Expect ads appearing in your browsing advertising gemini-adjacent products, like ortholinear keyboards and off-grid cabin living.
 
 ### Great DANE to the rescue?
 
@@ -65,3 +65,9 @@ In retrospect, it would have been nice for Gemini to be usable without TLS, and 
 
 I don't see it as a reason not to use  Gemini, but I will continue to point out the inherent uselessness of it going forward.
 
+## Update
+
+Björn (ew0k) has already written about this, I suggest reading the following which are coming from someone who knows their stuff:
+
+=> gemini://warmedal.se/~bjorn/posts/certificate-security.gmi Certificate Security
+=> gemini://warmedal.se/~bjorn/posts/your-gemini-browser-and-server-are-probably-doing-certificates-wrong.gmi Your Gemini Browser and Server are Probably Doing Certificates Wrong
