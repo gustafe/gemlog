@@ -5,10 +5,11 @@ WWW=/home/gustaf/public_html
 CGI=$(HOME)/cgi-bin
 
 .PHONY: main-page
-main-page: $(HOME)/gemini-main/*.gmi $(HOME)/gemini-main/*.txt
+main-page: $(HOME)/gemini-main/*.gmi $(HOME)/gemini-main/*.txt $(HOME)/gemini-main/.well-known/security.txt
 	cp $(HOME)/gemini-main/*.gmi $(GEM)/
 	cp $(HOME)/gemini-main/*.txt $(GEM)/
 	cp $(HOME)/gemini-main/fingerprint.txt $(WWW)/gemcert-fingerprint.txt
+	cp $(HOME)/gemini-main/.well-known/security.txt $(GEM)/.well-known/
 
 .PHONY: blog
 blog:
