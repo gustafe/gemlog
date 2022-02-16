@@ -1,0 +1,10 @@
+gmi2md.pl
+meta-creation_date: 2022-02-16 08:38:56
+I've written a small utility that will transform gemtext to Markdown. It essentially only deals with links, leaving everything else alone.
+
+Gemini and gopher links are presented via a http portal, but the plain url is also shown in case the reader wants to copy them to a dedicated client, or if the portal is down. 
+
+The source is available on GitHub.
+
+=> https://github.com/gustafe/gemsite/blob/main/tools/gmi2md.pl gmi2md.pl at GitHub
+
