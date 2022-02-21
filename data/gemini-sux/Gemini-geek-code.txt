@@ -1,0 +1,34 @@
+Gemini geek code
+meta-creation_date: 2022-02-18 20:08:33
+### TRIGGER WARNING: SATIRE
+
+=> https://en.wikipedia.org/wiki/Geek_Code Geek Code
+
+We need to update this for Gemini!
+
+```
+Sp - specification
+  Sp++ loves the spec
+  Sp0  neutral
+  Sp-- spec should be changed
+
+Em - emphasis
+  Em++ emphasis *must* be implemented
+  Em0  neutral
+  Em-- everyone must write like a robot
+
+Tl - TLS
+  Tl++ YES MOAR ENCRYPTION
+  Tl0  neutral
+  Tl-- the plainer text, the better
+
+Cl - client ecosystem
+  Cl++ one user = one bespoke client - let a 1,000 flowers bloom
+  Cl0  neutral
+  Cl-- Lagrange is the new Chrome and I'm fine with that
+
+Ml - Mailing list
+  Ml++ I can't wait for the mailing list to return so I can bask in the heat of the flames
+  Ml0  neutral
+  Ml-- re:-replies via Antenna are good enough for everyone
+```
