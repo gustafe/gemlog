@@ -15,6 +15,7 @@ my %descriptions = (
 		    'ebaums-world'              => "shit from the internit",
 		    rark=>'rants and rejvkommissionen',
 		    'srs-bzns'=>'serious business - everything here is worth your time',
+		    'tek'=>'technical stuff',
 );
 
 sub start {

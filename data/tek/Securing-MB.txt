@@ -1,0 +1,29 @@
+Securing Molly Brown
+meta-creation_date: 2022-02-25 11:35:20
+
+Via ~ew, I read perplexing.space on securing gemini servers running under systemd. They use Molly Brown, just like I do.
+
+=> gemini://ew.srht.site/en/2022/20220224-re-securing-gemini-servers.gmi ~ew: Re: Securing Gemini Servers
+=> gemini://perplexing.space/2022/securing-gemini-servers.gmi perplexing.space: Securing Gemini Servers
+
+I followed the instructions about securing the systemd unit file, but ran into a snag. The amended systemd directive
+
+```
+ProtectHome=yes
+```
+
+did not work for me. I don't know if it was because the home setup for my gemini user is different, or not.
+
+Btw I found this by basically commenting out all changes as suggested by perplexing, then uncommenting them one by one and running
+
+```
+sudo systemctl daemon-reload && \
+sudo systemctl restart molly-brown.service && \
+sudo systemctl status molly-brown.service 
+```
+
+after each one.
+
+Hopefully this helps.
+
+I might try to chroot M-B next.
