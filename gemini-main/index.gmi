@@ -26,6 +26,7 @@
 => gemini://gerikson.com/gemlog/misc/ ‹misc› What is says in the URL path
 => gemini://gerikson.com/gemlog/rark/ ‹rark› rants and rejvkommissionen
 => gemini://gerikson.com/gemlog/srs-bzns/ ‹srs-bzns› serious business - everything here is worth your time
+=> gemini://gerikson.com/gemlog/tek/ ‹tek› technical stuff
 => gemini://gerikson.com/gemlog/äran-och-hjältarnas-språk/ ‹äran-och-hjältarnas-språk› Inlägg på ren svenska
 
 ## $ whoami
