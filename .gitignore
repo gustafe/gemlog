@@ -4,3 +4,4 @@ gemlog-plugins/state/.entries_cache.others
 /gemlog-plugins/atomfeed.1
 gemlog-plugins/state/*
 plugins/state/.entries_cache.others
+/drafts
