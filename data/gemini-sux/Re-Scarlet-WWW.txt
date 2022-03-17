@@ -1,0 +1,29 @@
+Re: The Scarlet WWW
+meta-creation_date: 2022-03-16 09:31:06
+meta-updated: Updated on Thursday, 2022-03-17
+=> gemini://idiomdrottning.org/web-sluts Idiomdrottning: 'I’m not on board with this “Gemini vs the web sluts” schtick!'
+
+Neither am I.
+
+Sexism and misogyny is a problem online, and Gemini is definitely not immune. Part of this is the exalting of the monkish, elevated "life of the mind" pure text, as opposed to sensual images and video.
+
+Text is coded male. Images and video are coded female.
+
+Note that this crap is fractal - text that is coded female (romance fiction, fanfic) is valued less than text that is coded male - blog posts about programming, opinion pieces in big newspapers. Likewise, in the photography forums, the members (mostly male) value wildlife, nature and landscape (and female nudes) above photography aimed at and practiced by women, like wedding photography. 
+
+It's also worth mentioning that this isn't necessarily "active" misogynism. It's just that male-oriented views and spaces are seen as normal. 
+
+Unfortunately Gemini has multiple filters in place that reinforce this. Please note that these filters do not exclude women entirely - I personally e-know women who are part of Gemspace - but each filter removes some women.
+
+1. text-only: see above
+2. free/open-source focus
+3. lack of hosted services - and those that exist presume unix command line knowledge
+
+It's not clear whether this can be changed, or if the Gemini community is interested in such a  change. Probably not, and that's fine as far as it goes. Not every subculture has to accommodate everyone. But it's probably a good thing if this is acknowledged.
+
+## Update
+
+=> gemini://gemini.hitchhiker-linux.org/gemlog/2022-03-16-re-scarlet-www.gmi Jeang3nie replies to my post
+=> gemini://idiomdrottning.org/web-sluts Idiomdrottning has updated her post, addressing Jeang3nie's post too
+
+I'm really out of my comfort zone here. I'm gonna stop generalizing about women online until I've read up more.
