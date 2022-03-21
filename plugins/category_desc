@@ -16,6 +16,8 @@ my %descriptions = (
 		    rark=>'rants and rejvkommissionen',
 		    'srs-bzns'=>'serious business - everything here is worth your time',
 		    'tek'=>'technical stuff',
+		    'ukraine2022'=> 'rants and despair over the war in Ukraine',
+		    'meta' => 'posts about this gemlog',
 );
 
 sub start {

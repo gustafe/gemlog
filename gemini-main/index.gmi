@@ -23,10 +23,12 @@
 ## Other categories
 => gemini://gerikson.com/gemlog/ebaums-world/ ‹ebaums-world› shit from the internit
 => gemini://gerikson.com/gemlog/lobsters-drafts/ ‹lobsters-drafts› Sometimes I post to lobste.rs, sometimes I write angry rants that end up here but not there
+=> gemini://gerikson.com/gemlog/meta ‹meta› posts about this gemlog
 => gemini://gerikson.com/gemlog/misc/ ‹misc› What is says in the URL path
 => gemini://gerikson.com/gemlog/rark/ ‹rark› rants and rejvkommissionen
 => gemini://gerikson.com/gemlog/srs-bzns/ ‹srs-bzns› serious business - everything here is worth your time
 => gemini://gerikson.com/gemlog/tek/ ‹tek› technical stuff
+=> gemini://gerikson.com/gemlog/ukraine2022 ‹ukraine2022› rants and despair over the war in Ukraine
 => gemini://gerikson.com/gemlog/äran-och-hjältarnas-språk/ ‹äran-och-hjältarnas-språk› Inlägg på ren svenska
 
 ## $ whoami
