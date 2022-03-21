@@ -1,0 +1,9 @@
+New categories
+meta-creation_date: 2022-03-21 13:41:51
+
+I've created two new categories:
+
+=> gemini://gerikson.com/gemlog/meta posts about this gemlog
+=> gemini://gerikson.com/gemlog/ukraine2022 rants and despair over the war in Ukraine
+
+Posts about Russia's illegal invasion and war in Ukraine now have their own category. 
