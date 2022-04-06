@@ -1,0 +1,8 @@
+Your complaints about JavaScript are off-topic and will be flagged as such
+meta-creation_date: 2022-04-06 07:59:29
+
+I've had it with people who comment on submissions complaining it does not work without JavaScript.
+
+Unless the author is reading the comments and can take action, or there are *legitimate* accessibility complaints, such comments are just virtue signalling. I will flag them as off-topic.
+
+I'm in favor of creating a tag, for example `js-required`, to enable those who cannot access this kind of content to filter it out.
