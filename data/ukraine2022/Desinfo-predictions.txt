@@ -1,6 +1,6 @@
 Ukrainian war desinfo predictions
 meta-creation_date: 2022-03-10 15:11:42
-meta-updated: Updated on Wednesday, 2022-03-30
+meta-updated: Updated on Sunday, 2022-04-10
 ### "Ghost of Kyiv" (Ukraine)
 
 False - does not exist.
@@ -83,3 +83,13 @@ Oh yeah, it's not true
 => https://twitter.com/jasondhorowitz/status/1511079629452464145?s=20 @jasondhorowitz
 
 > The @nytimes  video team with  @malachybrowne  continues to provide critical reporting, this time satellite images in Bucha showing that civilians were killed more than three weeks ago, when Russia’s military was in control of the town.
+
+### Russian soldiers stole radioactive "souvenirs" from Chernobyl
+
+Prediction: false
+
+=> https://www.thedailybeast.com/russian-troops-took-radioactive-souvenirs-from-chernobyl-ukraine-nuclear-company-says? Daily Beast link
+
+### Russia used chemical weapons in Mariupol
+
+Prediction: false
