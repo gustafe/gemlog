@@ -1,9 +1,13 @@
 Ukrainian war desinfo predictions
 meta-creation_date: 2022-03-10 15:11:42
-meta-updated: Updated on Sunday, 2022-04-10
+meta-updated: Updated Monday, 2022-05-02
 ### "Ghost of Kyiv" (Ukraine)
 
 False - does not exist.
+
+Confirmed:
+
+=> https://www.svt.se/nyheter/utrikes/ukraina-bekraftar-ghost-of-kiev-ar-en-myt Ukraina bekräftar: ”Ghost of Kiev” är en myt
 
 ### Putin's meeting with trainee air stewardesses was greenscreened (World)
 
