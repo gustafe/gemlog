@@ -1,7 +1,7 @@
 # Gemroll
 
 => gemini://warmedal.se/~antenna/ Antenna
-=> gemini://warmedal.se/~antenna/filter/HieNxkhrjIyolyawbsPjdoXxuVBGJweC Antenna (filtered)
+=> gemini://warmedal.se/~antenna/filter/iBApCnyubCQNaTenKJZVngnKhWuTWski Filtered Antenna
 => gemini://idiomdrottning.org/sub Idiomdrottning
 => gemini://skyjake.fi/~Cosmos/since? COSMOS
 => gemini://idiomdrottning.org/nyhetsgrej Nyhetsgrej (TextTV i Gemini)
