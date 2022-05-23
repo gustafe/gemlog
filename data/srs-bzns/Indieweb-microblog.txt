@@ -1,0 +1,13 @@
+How to set up a microblog for Indieweb?
+meta-creation_date: 2022-04-27 12:17:12
+Serious question, I'm planning on coding up a quick microblog for personal use to move away from Twitter.
+
+My definition of a microblog is a series of entries, identified by a date + sequence number, but not necessarily having a title.
+
+The HTML5 tag <article> seems designed for this, and I can probably get around the requirement for an enclosed <H1> tag by adding an id to the tag itself. 
+
+=> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article <article>: The Article Contents element
+
+=> https://indieweb.org/article indieweb.org - article
+
+Is there an example of a "best practices" format for a microblog that plays nice in the indieweb? 

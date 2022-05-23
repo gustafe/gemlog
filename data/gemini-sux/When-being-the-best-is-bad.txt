@@ -1,0 +1,36 @@
+When being the best is bad
+meta-creation_date: 2022-05-09 23:16:19
+meta-updated: Updated on Tuesday, 2022-05-10
+=> gemini://ainent.xyz/gemlog/2022-05-07-critique-of-lagrange.gmi Ainent's Gemlog: A Critique of Lagrange
+=> gemini://gemini.ctrl-c.club/~stack/gemlog/2022-05-08.lagrange.gmi ☣ StackSmith: A Critique of a critique of Lagrange
+=> gemini://skyjake.fi/gemlog/2022-05_bloat.gmi skyjake: Bloat [skyjake is the creator of Lagrange]
+=> gemini://gemini.dimakrasner.com/re-bloat.gmi dimkr: Re: Bloat
+=> gemini://gemini.ctrl-c.club/~stack/gemlog/2022-05-09.lagrange.gmi ☣ StackSmith: On Bloat and Ingrates
+=> gemini://gemini.dimakrasner.com/re-on-bloat-and-ingrates.gmi dimkr: Re: On Bloat and Ingrates
+=> gemini://november.smol.pub/bloat november: WGAF about bloat?
+
+All in all, a pretty depressing catfight.
+
+@Skyjake, keep up the good work. I love Lagrange, and will continue to recommend it.
+
+To all critics of Lagrange - help make it better. Does it break the spec? It's unlikely, but if it does, file a PR.
+
+Gemini has reached that stage of critical mass where I can tell someone to install Lagrange, to visit Antenna, and start their exploration. If they want to continue using another client, that's fine. But Lagrange is a great entry point. It makes gemspace look good. WE SHOULD ALL BE THANKFUL IT EXISTS.
+
+### Update
+
+24h have passed and passions have cooled. Here are some more constructive links.
+
+=> gemini://gemini.ctrl-c.club/~stack/gemlog/2022-05-10.lagrange.gmi ☣ StackSmith: Is a Unix Philosophy Browser Possible?
+
+Basically, the browser as Emacs. I'm on board.
+
+=> gemini://gemini.thegonz.net/glog/220509-theAgenaApproach.gmi Metamatters: The Agena Approach
+
+Instead of browsers having, say, Gopher support, just implement a bunch of proxies to translate gophertext into Gemini!
+
+Sorry but no, that's a terrible and overcomplicated "solution" intended to jam "Unix Philosopy™" into holes where it does not belong.
+
+=> gemini://gemi.dev/gemlog/2022-05-10-say-thankyou.gmi  🤨 Curiouser and Curiouser: "Say thank you. Report bugs."
+
+Well written.

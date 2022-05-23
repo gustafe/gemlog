@@ -1,0 +1,41 @@
+Winding down my Gemini engagement
+meta-creation_date: 2022-05-17 18:00:15
+
+Well it's been a fun ride but I'm going to wind down my Gemini presence. I made it about 6 months.
+
+I've been a vocal critic of parts of Gemini, but I wanted to make a good-faith effort to see what it was, not just snipe from outside. [1], [2].
+
+While I have had a lot of fun on the technical side of things, and found a certain freedom in expression that was lacking from my old blog, the negatives outweigh the positives.
+
+In the spirit of "2 pluses, 1 minus" or the "shit sandwich", here's a summary.
+
+### The good, part 1 
+
+Gemini has taken off! There's a largish community and a bit of a "buzz". This is frankly not very common and people should be proud.
+
+### The bad
+
+First off, a lack of textual expression in gemtext. This is something I've butted heads with the community, and it's not gonna change. Fine, but it turns out it's a dealbreaker.
+
+A lack of audience reach. This is not just vanity publishing for me. Despite the choice of really quite decent clients, I cannot simply share a Gemini link without having to preface it with "oh yes this is a new protocol please download this to read". 
+
+I'm not really being that interested in discussing the things the community likes discussing - the evils of the Big Web, the tired rehashings of open source dogma I went through in the late 90s, and more. It's not you, it's me. I'm old.
+
+Finally, I'm not on board with the virtue signalling of not using "normie" social media, and I still see Gemini as an attempt at a technical solution to a social problem. 
+
+### The good, part 2
+
+It's been fun interacting with a small enthusiastic community. Members like Sandra (Idiomdrottning)[3] and Björn (ew0k)[4] have their hearts in the right place and are all-around menschs. The IRC channel on tilde.chat is welcoming too. And Lagrange[5] is an amazing client. 
+
+I'm taking from this a new focus on short-form blogging in the form of a new microblog.[6] It's refreshing to have all the affordances of HTML to express myself, but at the same time I don't have to be so damn formal about it.
+
+I wish the Gemini community all the best!
+
+---
+
+=> gemini://gerikson.com/gemlog/gemini-sux/Gemini-misaligned-incentives.gmi [1] Gemini: the misaligned incentives
+=> gemini://gerikson.com/gemlog/gemini-sux/TLS-and-its-discontents.gmi [2] TLS and its discontents
+=> gemini://idiomdrottning.org/sub [3] Idiomdrottning
+=> gemini://warmedal.se/~antenna/about.gmi [4] ew0k's Antenna project
+=> gemini://skyjake.fi/lagrange/ [5] Lagrange
+=> https://gerikson.com/m [6] microblog
